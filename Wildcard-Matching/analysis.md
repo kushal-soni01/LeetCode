@@ -5,7 +5,7 @@
 | Field | Value |
 |---|---|
 | **Approach Used** | Dynamic Programming |
-| **Time Complexity** | `O(m*n)` |
+| **Time Complexity** | `O(n*m)` |
 | **Space Complexity** | `O(n)` |
 | **Language** | java |
 
@@ -15,13 +15,13 @@
 
 This solution can be improved.
 
-**Hint:** Instead of using a single array dp of size n, use a 2D dp array of size m*n to track the matching status of substrings of s and p.
+**Hint:** Consider using a 2D DP array dp[i][j] to track whether the first i characters in string s match the first j characters in string p.
 
 | | Achieved | Target |
 |---|---|---|
 | **Approach** | Dynamic Programming | Two Dimensional Dynamic Programming |
-| **Time** | `O(m*n)` | `O(m*n)` |
-| **Space** | `O(n)` | `O(m*n)` |
+| **Time** | `O(n*m)` | `O(n*m)` |
+| **Space** | `O(n)` | `O(n*m)` |
 
 ---
 
@@ -29,17 +29,17 @@ This solution can be improved.
 
 **Score:** ⭐⭐⭐⭐☆ (4/5)
 
-Readability is good, but variable names like 'a' and 'b' could be more descriptive to represent the input string and pattern respectively.
+The variable names used are somewhat meaningful, but the code could benefit from additional comments and more descriptive variable names for better readability.
 
 ---
 
 ## � Interviewer's Perspective
 
 **Verdict:**
-The candidate demonstrates a good understanding of dynamic programming and wildcard matching, but the solution can be optimized for better space complexity. The candidate's code quality is also good, but could be improved with more descriptive variable names.
+The candidate demonstrates a good understanding of dynamic programming, but the solution can be improved in terms of space complexity and overall code quality. They show potential, but may need to work on optimizing their solutions and writing cleaner code.
 
 **Likely Follow-Up Question:**
-> How would you handle cases where the input string or pattern is null, and what assumptions can be made about the input?
+> How would you optimize the space complexity of this solution to make it more efficient?
 
 ---
 
