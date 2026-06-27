@@ -11,9 +11,17 @@
 
 ---
 
-## ✅ Optimality
+## ⚡ Optimality
 
-This solution **is optimal**. Well done!
+This solution can be improved.
+
+**Hint:** Use a 2D dp array to track matches between the input string and the pattern
+
+| | Achieved | Target |
+|---|---|---|
+| **Approach** | Dynamic Programming | Two Dimensional Dynamic Programming |
+| **Time** | `O(m*n)` | `O(m*n)` |
+| **Space** | `O(n)` | `O(m*n)` |
 
 ---
 
@@ -21,17 +29,17 @@ This solution **is optimal**. Well done!
 
 **Score:** ⭐⭐⭐⭐☆ (4/5)
 
-The variable names such as a and b are quite confusing and do not fully describe the logic, otherwise the code is fairly readable
+The variable names are mostly clear, but the use of single-letter variable names like 'a' and 'b' for the character arrays could be improved for better readability
 
 ---
 
 ## � Interviewer's Perspective
 
 **Verdict:**
-The candidate demonstrates a good understanding of dynamic programming and handles edge cases well, but could improve code readability with more descriptive variable names. Overall, the solution is efficient and correct. The candidate shows a strong grasp of algorithmic problem-solving.
+The candidate demonstrates a decent understanding of dynamic programming, but the solution could be improved with a more optimal approach and better variable naming. The candidate's code is mostly correct, but may not handle all edge cases efficiently.
 
 **Likely Follow-Up Question:**
-> How would you modify the solution to handle a new wildcard character that matches one or more characters?
+> How would you modify your solution to handle cases where the input string or pattern is null or empty?
 
 ---
 
