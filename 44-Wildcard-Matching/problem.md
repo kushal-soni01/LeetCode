@@ -57,9 +57,9 @@ Constraints:
 
 | | Value |
 |---|---|
-| **Approach** | Dynamic Programming |
+| **Approach** | Two Dimensional Dynamic Programming |
 | **Time Complexity** | `O(m*n)` |
-| **Space Complexity** | `O(n)` |
+| **Space Complexity** | `O(m*n)` |
 
 ---
 
