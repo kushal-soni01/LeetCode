@@ -4,9 +4,9 @@
 
 | Field | Value |
 |---|---|
-| **Approach Used** | Greedy Algorithm with Sorting |
-| **Time Complexity** | `O(n log n)` |
-| **Space Complexity** | `O(1)` |
+| **Approach Used** | Greedy Algorithm with Counting Sort |
+| **Time Complexity** | `O(n)` |
+| **Space Complexity** | `O(n)` |
 | **Language** | java |
 
 ---
@@ -21,17 +21,17 @@ This solution **is optimal**. Well done!
 
 **Score:** ⭐⭐⭐⭐⭐ (5/5)
 
-The code uses standard variable names and is easy to understand.
+The code uses clear, standard variable names and is well-structured, making it easy to understand the logic.
 
 ---
 
 ## � Interviewer's Perspective
 
 **Verdict:**
-The candidate demonstrates a good understanding of the problem and provides a clear, efficient solution. The code is well-organized and easy to follow, with no missed edge cases. Overall, the submission is of high quality.
+The candidate demonstrates a solid understanding of the problem and implements an efficient solution with good code quality. However, the variable name 'maxEle' could be improved for clarity. Overall, the code is well-organized and effectively solves the problem.
 
 **Likely Follow-Up Question:**
-> How would you handle the case where the input array is already sorted in ascending order, and can you explain why your solution still works in that scenario?
+> How would you handle the case where the input array is not sorted and has duplicate elements, and what would be the time complexity in that scenario?
 
 ---
 
