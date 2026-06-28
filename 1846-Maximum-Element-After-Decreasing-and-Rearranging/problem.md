@@ -16,7 +16,7 @@ You are given an array of positive integers arr . Perform some operations (possi
 
 | | Value |
 |---|---|
-| **Approach** | Greedy with Sorting |
+| **Approach** | Greedy Algorithm with Sorting |
 | **Time Complexity** | `O(n log n)` |
 | **Space Complexity** | `O(1)` |
 
