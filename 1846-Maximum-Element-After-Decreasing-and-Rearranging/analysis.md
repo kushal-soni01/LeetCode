@@ -4,7 +4,7 @@
 
 | Field | Value |
 |---|---|
-| **Approach Used** | Greedy with Sorting |
+| **Approach Used** | Greedy Algorithm with Sorting |
 | **Time Complexity** | `O(n log n)` |
 | **Space Complexity** | `O(1)` |
 | **Language** | java |
@@ -21,17 +21,17 @@ This solution **is optimal**. Well done!
 
 **Score:** ⭐⭐⭐⭐⭐ (5/5)
 
-The code uses standard array and loop variable names which are easy to understand and follow.
+The code uses standard variable names and is easy to understand.
 
 ---
 
 ## � Interviewer's Perspective
 
 **Verdict:**
-The candidate has demonstrated a good understanding of the problem and implemented a clear, efficient solution. The use of sorting and then a single pass through the array to adjust values is a suitable approach for this problem. However, the code could benefit from additional comments to explain the logic behind the solution.
+The candidate demonstrates a good understanding of the problem and provides a clear, efficient solution. The code is well-organized and easy to follow, with no missed edge cases. Overall, the submission is of high quality.
 
 **Likely Follow-Up Question:**
-> How would you modify your solution if the input array could contain zero or negative integers, and the problem statement remained the same?
+> How would you handle the case where the input array is already sorted in ascending order, and can you explain why your solution still works in that scenario?
 
 ---
 
