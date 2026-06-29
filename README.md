@@ -5,24 +5,9 @@ Last updated: June 29, 2026
 
 ---
 
-| Dynamic Programming |
+| Recursive Depth-First Search |
 | --- |
-| [72. Edit Distance](./72-Edit-Distance/) |
-
----
-
-| Stack |
-| --- |
-| [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/) |
-
----
-
-| Two Pointer |
-| --- |
-| [15. 3Sum](./15-3Sum/) |
-| [16. 3Sum Closest](./16-3Sum-Closest/) |
-| [18. 4Sum](./18-4Sum/) |
-| [19. Remove Nth Node From End of List](./19-Remove-Nth-Node-From-End-of-List/) |
+| [94. Binary Tree Inorder Traversal](./94-Binary-Tree-Inorder-Traversal/) |
 
 ---
 <div align="center">
