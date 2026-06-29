@@ -16,6 +16,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Brute Force -->
+| **Brute Force** |
+|---|
+| [1967. Number of Strings That Appear as Substrings in Word](./1967-Number-of-Strings-That-Appear-as-Substrings-in-Word/) |
+
+---
+
 <!-- leetlens:section=Hash Map -->
 | **Hash Map** |
 |---|
@@ -26,7 +33,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Linear Scan With Conditional Checks -->
 | **Linear Scan With Conditional Checks** |
 |---|
-| [8. String to Integer (atoi)](./8-String-to-Integer-atoi/) |
+| [8. String to Integer atoi](./8-String-to-Integer-atoi/) |
 
 ---
 
