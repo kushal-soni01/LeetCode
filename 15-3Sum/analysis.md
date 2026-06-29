@@ -4,7 +4,7 @@
 
 | Field | Value |
 |---|---|
-| **Approach Used** | Two Pointers with Sorting and Skipping Duplicates |
+| **Approach Used** | Two Pointers with Sorting |
 | **Time Complexity** | `O(n²)` |
 | **Space Complexity** | `O(n)` |
 | **Language** | java |
@@ -19,19 +19,19 @@ This solution **is optimal**. Well done!
 
 ## � Code Readability
 
-**Score:** ⭐⭐⭐⭐☆ (4/5)
+**Score:** ⭐⭐⭐⭐⭐ (5/5)
 
-The code uses clear and conventional variable names like left, right, and i, making the solution easy to follow.
+The solution has clear and concise variable names, making it easy to understand the logic.
 
 ---
 
 ## � Interviewer's Perspective
 
 **Verdict:**
-The candidate demonstrates strong understanding of the problem and utilizes a suitable approach, resulting in clear and efficient code. However, a small concern lies in the lack of comments explaining the purpose of the inner while loops. Overall, the submission is of high quality.
+The candidate demonstrates a solid understanding of the problem and its constraints, and their solution is both efficient and well-implemented. The code is easy to follow, and they have handled edge cases correctly. However, there is room for minor improvements in variable naming.
 
 **Likely Follow-Up Question:**
-> How would you modify your solution if the input array was too large to fit into memory, and you had to process it in chunks?
+> Can you explain why you chose to break out of the outer loop when nums[i] > 0, and how you would handle cases where the input array has duplicate triplets with the same sum but different indices?
 
 ---
 
