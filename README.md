@@ -3,48 +3,49 @@
 Solutions organized by the approach used to solve each problem.
 
 <!-- leetlens:section=Bit Manipulation -->
-## Bit Manipulation
-
-- [190. Reverse Bits](./190-Reverse-Bits/)
+| **Bit Manipulation** |
+|---|
+| [190. Reverse Bits](./190-Reverse-Bits/) |
 
 ---
 
 <!-- leetlens:section=Dynamic Programming -->
-## Dynamic Programming
-
-- [124. Binary Tree Maximum Path Sum](./124-Binary-Tree-Maximum-Path-Sum/)
+| **Dynamic Programming** |
+|---|
+| [124. Binary Tree Maximum Path Sum](./124-Binary-Tree-Maximum-Path-Sum/) |
+| [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
 
 ---
 
 <!-- leetlens:section=Stack -->
-## Stack
-
-- [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/)
+| **Stack** |
+|---|
+| [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/) |
 
 ---
 
 <!-- leetlens:section=String -->
-## String
-
-- [3612. Process String with Special Operations I](./3612-Process-String-with-Special-Operations-I/)
+| **String** |
+|---|
+| [3612. Process String with Special Operations I](./3612-Process-String-with-Special-Operations-I/) |
 
 ---
 
 <!-- leetlens:section=Two Pointer -->
-## Two Pointer
-
-- [15. 3Sum](./15-3Sum/)
-- [16. 3Sum Closest](./16-3Sum-Closest/)
-- [18. 4Sum](./18-4Sum/)
-- [19. Remove Nth Node From End of List](./19-Remove-Nth-Node-From-End-of-List/)
+| **Two Pointer** |
+|---|
+| [15. 3Sum](./15-3Sum/) |
+| [16. 3Sum Closest](./16-3Sum-Closest/) |
+| [18. 4Sum](./18-4Sum/) |
+| [19. Remove Nth Node From End of List](./19-Remove-Nth-Node-From-End-of-List/) |
 
 ---
 
 <!-- leetlens:section=Unknown -->
-## Unknown
-
-- [72. Edit Distance](./72-Edit-Distance/)
-- [94. Binary Tree Inorder Traversal](./94-Binary-Tree-Inorder-Traversal/)
+| **Unknown** |
+|---|
+| [72. Edit Distance](./72-Edit-Distance/) |
+| [94. Binary Tree Inorder Traversal](./94-Binary-Tree-Inorder-Traversal/) |
 
 ---
 
