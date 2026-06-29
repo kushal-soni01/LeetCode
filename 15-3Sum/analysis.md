@@ -21,17 +21,17 @@ This solution **is optimal**. Well done!
 
 **Score:** ⭐⭐⭐⭐⭐ (5/5)
 
-The code uses standard competitive programming variable names and has a clear structure.
+The solution uses clear and standard variable names, making it easy to understand the logic.
 
 ---
 
 ## � Interviewer's Perspective
 
 **Verdict:**
-The candidate demonstrates a clear understanding of the 3Sum problem and implements the Two Pointers technique correctly. The code quality is high, and the candidate handles edge cases properly. However, the solution could benefit from additional comments to explain the reasoning behind certain parts of the code.
+The candidate demonstrates a clear understanding of the problem, utilizing an efficient two-pointer technique. The code is well-organized, readable, and handles edge cases properly. However, it's worth noting that the solution's performance could be impacted by large input sizes.
 
 **Likely Follow-Up Question:**
-> How would you modify this solution to handle a similar problem where the target sum is not zero, but a given constant k?
+> How would you handle cases where the input array contains a large number of duplicate elements, potentially leading to inefficient skipping of duplicate triplets in the inner while loop?
 
 ---
 <p align="center">
