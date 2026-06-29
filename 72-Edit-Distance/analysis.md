@@ -4,8 +4,8 @@
 
 | Field | Value |
 |---|---|
-| **Approach Used** | Bottom-Up Dynamic Programming |
-| **Time Complexity** | `O(mn)` |
+| **Approach Used** | Bottom-Up DP |
+| **Time Complexity** | `O(m*n)` |
 | **Space Complexity** | `O(n)` |
 | **Language** | java |
 
@@ -21,17 +21,17 @@ This solution **is optimal**. Well done!
 
 **Score:** ⭐⭐⭐⭐☆ (4/5)
 
-The code uses standard variable names and is well-structured, but a brief comment explaining the purpose of the dynamic programming table would increase clarity.
+The variable names are concise and easy to understand, but the code could benefit from additional comments to explain the logic behind the dynamic programming approach, losing a point for clarity.
 
 ---
 
 ## Interviewer's Perspective
 
 **Verdict:**
-The candidate demonstrates a solid understanding of dynamic programming and applies it correctly to the problem. The code is concise and easy to follow. However, there is room for improvement in terms of explicit comments and handling edge cases.
+The candidate demonstrates a strong understanding of the problem and effectively applies dynamic programming to solve it. The code is generally clear and well-structured, but could be improved with comments to explain the logic. However, the solution is efficient and does not miss any edge cases. Overall, the candidate shows a good grasp of algorithms and problem-solving skills.
 
 **Likely Follow-Up Question:**
-> Can you explain why the initial values of the dynamic programming table dp were set to j, and how this relates to the base case of the edit distance problem?
+> How would you modify the current solution to handle cases where the input strings can be of length up to 1000, and the current space complexity becomes a concern?
 
 ---
 <p align="center">
