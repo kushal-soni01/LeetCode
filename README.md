@@ -44,6 +44,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Sliding Window -->
+| **Sliding Window** |
+|---|
+| [1358. Number of Substrings Containing All Three Characters](./1358-Number-of-Substrings-Containing-All-Three-Characters/) |
+
+---
+
 <!-- leetlens:section=Stack -->
 | **Stack** |
 |---|
