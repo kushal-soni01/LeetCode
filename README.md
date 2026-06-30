@@ -19,6 +19,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Brute Force -->
 | **Brute Force** |
 |---|
+| [1763. Longest Nice Substring](./1763-Longest-Nice-Substring/) |
 | [1967. Number of Strings That Appear as Substrings in Word](./1967-Number-of-Strings-That-Appear-as-Substrings-in-Word/) |
 
 ---
