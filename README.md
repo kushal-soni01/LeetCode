@@ -84,6 +84,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Two-Phase Algorithm With Merging Of Intervals And Filtering -->
+| **Two-Phase Algorithm With Merging Of Intervals And Filtering** |
+|---|
+| [3975. Filter Occupied Intervals](./3975-Filter-Occupied-Intervals/) |
+
+---
+
 <!-- leetlens:section=Unknown -->
 | **Unknown** |
 |---|
