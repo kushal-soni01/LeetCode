@@ -30,10 +30,18 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Greedy -->
+| **Greedy** |
+|---|
+| [122. Best Time to Buy and Sell Stock II](./122-Best-Time-to-Buy-and-Sell-Stock-II/) |
+
+---
+
 <!-- leetlens:section=Hash Map -->
 | **Hash Map** |
 |---|
 | [594. Longest Harmonious Subsequence](./594-Longest-Harmonious-Subsequence/) |
+| [1394. Find Lucky Integer in an Array](./1394-Find-Lucky-Integer-in-an-Array/) |
 
 ---
 
