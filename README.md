@@ -23,6 +23,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Dynamic Programming -->
+| **Dynamic Programming** |
+|---|
+| [1312. Minimum Insertion Steps to Make a String Palindrome](./1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/) |
+
+---
+
 <!-- leetlens:section=Hash Map -->
 | **Hash Map** |
 |---|
