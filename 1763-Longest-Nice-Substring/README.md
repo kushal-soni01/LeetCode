@@ -1,8 +1,8 @@
 <!-- leetlens:questionId=1763 -->
-<!-- leetlens:approach=Brute Force with StringBuilder -->
+<!-- leetlens:approach=Brute Force with String IndexOf -->
 <!-- leetlens:difficulty=Easy -->
 <!-- leetlens:language=java -->
-<!-- leetlens:pushedAt=1782845247962 -->
+<!-- leetlens:pushedAt=1782845603264 -->
 
 # [1763. Longest Nice Substring](https://leetcode.com/problems/Longest-Nice-Substring/)
 
@@ -40,7 +40,7 @@ Output: "Bb"
 
 | Field | Value |
 |---|---|
-| Approach | Sliding Window with Hash Map |
+| Approach | Hash Map to track character counts |
 | Time Complexity | O(n²) |
 | Space Complexity | O(1) |
 
