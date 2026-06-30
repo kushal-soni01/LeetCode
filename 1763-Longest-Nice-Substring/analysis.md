@@ -4,7 +4,7 @@
 
 | Field | Value |
 |---|---|
-| **Approach Used** | Brute Force with StringBuilder |
+| **Approach Used** | Brute Force with String IndexOf |
 | **Time Complexity** | `O(n³)` |
 | **Space Complexity** | `O(n)` |
 | **Language** | java |
@@ -15,11 +15,11 @@
 
 This solution can be improved.
 
-**Hint:** Use a HashSet to track characters found in both cases — this eliminates the need for string searches in the inner loop, reducing from O(n³) to O(n²)
+**Hint:** Use a hash map to track the counts of uppercase and lowercase letters, reducing indexOf calls from O(n) to O(1)
 
 | | Achieved | Target |
 |---|---|---|
-| **Approach** | Brute Force with StringBuilder | Sliding Window with Hash Map |
+| **Approach** | Brute Force with String IndexOf | Hash Map to track character counts |
 | **Time** | `O(n³)` | `O(n²)` |
 | **Space** | `O(n)` | `O(1)` |
 
@@ -29,17 +29,17 @@ This solution can be improved.
 
 **Score:** ⭐⭐⭐⭐☆ (4/5)
 
-The code is mostly straightforward and uses standard variable names, but could benefit from comments to explain the logic behind the isNice method
+The variable names are clear and descriptive, but the logic inside isNice method can be improved with more comments
 
 ---
 
 ## Interviewer's Perspective
 
 **Verdict:**
-The candidate demonstrates a basic understanding of the problem but fails to consider time complexity. The code quality is good, but the approach is inefficient and may lead to performance issues. The candidate should work on optimizing the solution to handle larger inputs.
+The candidate demonstrates basic problem-solving skills but lacks optimization techniques, resulting in inefficient time complexity. Code quality is acceptable but can be improved with more comments and clearer variable names. However, the candidate did handle the edge case of returning an empty string when no nice substring is found.
 
 **Likely Follow-Up Question:**
-> Can you explain why you chose to use a StringBuilder in this solution, and how you would rewrite the isNice method to avoid the use of string searches?
+> How would you optimize the isNice method to reduce the time complexity of the overall solution?
 
 ---
 <p align="center">
