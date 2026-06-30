@@ -23,17 +23,11 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Dynamic Programming -->
-| **Dynamic Programming** |
-|---|
-| [1312. Minimum Insertion Steps to Make a String Palindrome](./1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/) |
-
----
-
 <!-- leetlens:section=Greedy -->
 | **Greedy** |
 |---|
 | [122. Best Time to Buy and Sell Stock II](./122-Best-Time-to-Buy-and-Sell-Stock-II/) |
+| [3974. Maximum Total Sum of K Selected Elements](./3974-Maximum-Total-Sum-of-K-Selected-Elements/) |
 
 ---
 
@@ -96,6 +90,7 @@ Solutions organized by the approach used to solve each problem.
 | [72. Edit Distance](./72-Edit-Distance/) |
 | [94. Binary Tree Inorder Traversal](./94-Binary-Tree-Inorder-Traversal/) |
 | [124. Binary Tree Maximum Path Sum](./124-Binary-Tree-Maximum-Path-Sum/) |
+| [1312. Minimum Insertion Steps to Make a String Palindrome](./1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/) |
 | [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
 
 ---
