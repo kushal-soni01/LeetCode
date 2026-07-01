@@ -28,6 +28,7 @@ Solutions organized by the approach used to solve each problem.
 | **Greedy** |
 |---|
 | [122. Best Time to Buy and Sell Stock II](./122-Best-Time-to-Buy-and-Sell-Stock-II/) |
+| [1328. Break a Palindrome](./1328-Break-a-Palindrome/) |
 | [3974. Maximum Total Sum of K Selected Elements](./3974-Maximum-Total-Sum-of-K-Selected-Elements/) |
 
 ---
@@ -85,13 +86,6 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Two-Phase Algorithm With Merging Of Intervals And Filtering -->
-| **Two-Phase Algorithm With Merging Of Intervals And Filtering** |
-|---|
-| [3975. Filter Occupied Intervals](./3975-Filter-Occupied-Intervals/) |
-
----
-
 <!-- leetlens:section=Unknown -->
 | **Unknown** |
 |---|
@@ -100,6 +94,7 @@ Solutions organized by the approach used to solve each problem.
 | [124. Binary Tree Maximum Path Sum](./124-Binary-Tree-Maximum-Path-Sum/) |
 | [1312. Minimum Insertion Steps to Make a String Palindrome](./1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/) |
 | [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
+| [3975. Filter Occupied Intervals](./3975-Filter-Occupied-Intervals/) |
 
 ---
 
