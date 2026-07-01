@@ -4,7 +4,7 @@
 
 | Field | Value |
 |---|---|
-| **Approach Used** | Nested Loop with Helper Function |
+| **Approach Used** | Brute Force Grid Iteration |
 | **Time Complexity** | `O(n²)` |
 | **Space Complexity** | `O(n²)` |
 | **Language** | java |
@@ -19,19 +19,19 @@ This solution **is optimal**. Well done!
 
 ## Code Readability
 
-**Score:** ⭐⭐⭐⭐⭐ (5/5)
+**Score:** ⭐⭐⭐⭐☆ (4/5)
 
-The solution uses standard variable names like i, j, n, and ans, making it easy to understand the logic.
+The solution uses clear variable names and a straightforward structure, making it easy to understand, but could benefit from more descriptive method names.
 
 ---
 
 ## Interviewer's Perspective
 
 **Verdict:**
-The candidate demonstrates a clear understanding of the problem by using a helper function to find the maximum value in each 3x3 submatrix. The code is also well-organized and easy to follow. However, the solution may not be efficient for very large inputs due to its quadratic time complexity.
+The candidate demonstrates a solid understanding of the problem and implements a straightforward solution with good code quality. However, the solution does not show any attempt to optimize the approach, which might be a concern for larger inputs. Overall, it's a decent effort.
 
 **Likely Follow-Up Question:**
-> How would you modify the findMax function to handle cases where the input matrix has a size less than 3, and what error handling would you implement?
+> How would you modify your solution if the input grid size was much larger, say up to 1000x1000, and you needed to minimize memory usage?
 
 ---
 <p align="center">
