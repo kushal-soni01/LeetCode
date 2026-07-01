@@ -1,8 +1,8 @@
 <!-- leetlens:questionId=2373 -->
-<!-- leetlens:approach=Nested Loop with Helper Function -->
+<!-- leetlens:approach=Brute Force Grid Iteration -->
 <!-- leetlens:difficulty=Easy -->
 <!-- leetlens:language=java -->
-<!-- leetlens:pushedAt=1782934322380 -->
+<!-- leetlens:pushedAt=1782934326776 -->
 
 # [2373. Largest Local Values in a Matrix](https://leetcode.com/problems/Largest-Local-Values-in-a-Matrix/)
 
@@ -37,7 +37,7 @@ Output: [[1,1,1,1,1],[1,1,1,1,1],[1,1,2,1,1],[1,1,1,1,1],[1,1,1,1,1]]
 
 | Field | Value |
 |---|---|
-| Approach | Nested Loop with Helper Function |
+| Approach | Brute Force Grid Iteration |
 | Time Complexity | O(n²) |
 | Space Complexity | O(n²) |
 
