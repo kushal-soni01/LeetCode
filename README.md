@@ -48,6 +48,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Modified Prefix Product Calculation -->
+| **Modified Prefix Product Calculation** |
+|---|
+| [2906. Construct Product Matrix](./2906-Construct-Product-Matrix/) |
+
+---
+
 <!-- leetlens:section=Prefix Sum -->
 | **Prefix Sum** |
 |---|
