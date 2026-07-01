@@ -21,6 +21,7 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [1763. Longest Nice Substring](./1763-Longest-Nice-Substring/) |
 | [1967. Number of Strings That Appear as Substrings in Word](./1967-Number-of-Strings-That-Appear-as-Substrings-in-Word/) |
+| [2373. Largest Local Values in a Matrix](./2373-Largest-Local-Values-in-a-Matrix/) |
 
 ---
 
@@ -38,6 +39,13 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [594. Longest Harmonious Subsequence](./594-Longest-Harmonious-Subsequence/) |
 | [1394. Find Lucky Integer in an Array](./1394-Find-Lucky-Integer-in-an-Array/) |
+
+---
+
+<!-- leetlens:section=HashSet To Track Unique Characters -->
+| **HashSet To Track Unique Characters** |
+|---|
+| [3760. Maximum Substrings With Distinct Start](./3760-Maximum-Substrings-With-Distinct-Start/) |
 
 ---
 
@@ -60,13 +68,6 @@ Solutions organized by the approach used to solve each problem.
 | **Modified Prefix Product Calculation** |
 |---|
 | [2906. Construct Product Matrix](./2906-Construct-Product-Matrix/) |
-
----
-
-<!-- leetlens:section=Nested Loop With Helper Function -->
-| **Nested Loop With Helper Function** |
-|---|
-| [2373. Largest Local Values in a Matrix](./2373-Largest-Local-Values-in-a-Matrix/) |
 
 ---
 
