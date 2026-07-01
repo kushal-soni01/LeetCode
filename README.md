@@ -63,6 +63,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Nested Loop With Helper Function -->
+| **Nested Loop With Helper Function** |
+|---|
+| [2373. Largest Local Values in a Matrix](./2373-Largest-Local-Values-in-a-Matrix/) |
+
+---
+
 <!-- leetlens:section=Prefix Sum -->
 | **Prefix Sum** |
 |---|
