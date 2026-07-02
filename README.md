@@ -38,6 +38,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Hash Map -->
 | **Hash Map** |
 |---|
+| [347. Top K Frequent Elements](./347-Top-K-Frequent-Elements/) |
 | [594. Longest Harmonious Subsequence](./594-Longest-Harmonious-Subsequence/) |
 | [1394. Find Lucky Integer in an Array](./1394-Find-Lucky-Integer-in-an-Array/) |
 
@@ -62,13 +63,6 @@ Solutions organized by the approach used to solve each problem.
 | **Linear Scan With Conditional Checks** |
 |---|
 | [8. String to Integer atoi](./8-String-to-Integer-atoi/) |
-
----
-
-<!-- leetlens:section=Linear Scan With Two-Element Tracking -->
-| **Linear Scan With Two-Element Tracking** |
-|---|
-| [1464. Maximum Product of Two Elements in an Array](./1464-Maximum-Product-of-Two-Elements-in-an-Array/) |
 
 ---
 
@@ -124,6 +118,7 @@ Solutions organized by the approach used to solve each problem.
 | [94. Binary Tree Inorder Traversal](./94-Binary-Tree-Inorder-Traversal/) |
 | [124. Binary Tree Maximum Path Sum](./124-Binary-Tree-Maximum-Path-Sum/) |
 | [1312. Minimum Insertion Steps to Make a String Palindrome](./1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/) |
+| [1464. Maximum Product of Two Elements in an Array](./1464-Maximum-Product-of-Two-Elements-in-an-Array/) |
 | [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
 | [3975. Filter Occupied Intervals](./3975-Filter-Occupied-Intervals/) |
 
