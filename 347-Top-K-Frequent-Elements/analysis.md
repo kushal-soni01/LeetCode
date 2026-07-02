@@ -21,17 +21,17 @@ This solution **is optimal**. Well done!
 
 **Score:** ⭐⭐⭐⭐⭐ (5/5)
 
-The solution uses standard CP variable names and its logic is straightforward, making it easy to understand.
+The solution uses clear, concise, and standard competitive programming variable names, enhancing readability.
 
 ---
 
 ## Interviewer's Perspective
 
 **Verdict:**
-The candidate demonstrates a solid understanding of the problem by utilizing a priority queue and hash map. The code is clean and well-structured, handling the constraints effectively. However, the solution does not include error checking for edge cases, such as handling an empty input array.
+The candidate demonstrates a good understanding of the problem by utilizing a priority queue to efficiently find the top k frequent elements. The code is well-structured and clear, but it may benefit from additional comments to explain the reasoning behind the approach. Overall, the solution is correct and efficient.
 
 **Likely Follow-Up Question:**
-> How would you modify your solution to handle the case where the input array is empty or k is greater than the number of unique elements in the array?
+> How would you modify the solution to handle cases where the input array is too large to fit into memory, and you need to process it in a streaming fashion?
 
 ---
 <p align="center">
