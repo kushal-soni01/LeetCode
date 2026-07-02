@@ -30,6 +30,7 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [122. Best Time to Buy and Sell Stock II](./122-Best-Time-to-Buy-and-Sell-Stock-II/) |
 | [1328. Break a Palindrome](./1328-Break-a-Palindrome/) |
+| [1488. Avoid Flood in The City](./1488-Avoid-Flood-in-The-City/) |
 | [3974. Maximum Total Sum of K Selected Elements](./3974-Maximum-Total-Sum-of-K-Selected-Elements/) |
 
 ---
