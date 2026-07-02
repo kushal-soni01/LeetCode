@@ -64,6 +64,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Linear Scan With Two-Element Tracking -->
+| **Linear Scan With Two-Element Tracking** |
+|---|
+| [1464. Maximum Product of Two Elements in an Array](./1464-Maximum-Product-of-Two-Elements-in-an-Array/) |
+
+---
+
 <!-- leetlens:section=Modified Prefix Product Calculation -->
 | **Modified Prefix Product Calculation** |
 |---|
