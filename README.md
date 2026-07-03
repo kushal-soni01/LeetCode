@@ -60,6 +60,7 @@ Solutions organized by the approach used to solve each problem.
 | [703. Kth Largest Element in a Stream](./703-Kth-Largest-Element-in-a-Stream/) |
 | [1337. The K Weakest Rows in a Matrix](./1337-The-K-Weakest-Rows-in-a-Matrix/) |
 | [2099. Find Subsequence of Length K With the Largest Sum](./2099-Find-Subsequence-of-Length-K-With-the-Largest-Sum/) |
+| [2231. Largest Number After Digit Swaps by Parity](./2231-Largest-Number-After-Digit-Swaps-by-Parity/) |
 
 ---
 
