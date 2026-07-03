@@ -58,6 +58,7 @@ Solutions organized by the approach used to solve each problem.
 | [378. Kth Smallest Element in a Sorted Matrix](./378-Kth-Smallest-Element-in-a-Sorted-Matrix/) |
 | [506. Relative Ranks](./506-Relative-Ranks/) |
 | [703. Kth Largest Element in a Stream](./703-Kth-Largest-Element-in-a-Stream/) |
+| [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
 
 ---
 
