@@ -56,6 +56,7 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [215. Kth Largest Element in an Array](./215-Kth-Largest-Element-in-an-Array/) |
 | [378. Kth Smallest Element in a Sorted Matrix](./378-Kth-Smallest-Element-in-a-Sorted-Matrix/) |
+| [506. Relative Ranks](./506-Relative-Ranks/) |
 
 ---
 
