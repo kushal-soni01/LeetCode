@@ -58,7 +58,7 @@ Solutions organized by the approach used to solve each problem.
 | [378. Kth Smallest Element in a Sorted Matrix](./378-Kth-Smallest-Element-in-a-Sorted-Matrix/) |
 | [506. Relative Ranks](./506-Relative-Ranks/) |
 | [703. Kth Largest Element in a Stream](./703-Kth-Largest-Element-in-a-Stream/) |
-| [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
+| [1337. The K Weakest Rows in a Matrix](./1337-The-K-Weakest-Rows-in-a-Matrix/) |
 
 ---
 
@@ -120,6 +120,7 @@ Solutions organized by the approach used to solve each problem.
 | [72. Edit Distance](./72-Edit-Distance/) |
 | [94. Binary Tree Inorder Traversal](./94-Binary-Tree-Inorder-Traversal/) |
 | [124. Binary Tree Maximum Path Sum](./124-Binary-Tree-Maximum-Path-Sum/) |
+| [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
 | [1312. Minimum Insertion Steps to Make a String Palindrome](./1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/) |
 | [1464. Maximum Product of Two Elements in an Array](./1464-Maximum-Product-of-Two-Elements-in-an-Array/) |
 | [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
