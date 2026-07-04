@@ -42,7 +42,6 @@ Solutions organized by the approach used to solve each problem.
 | [347. Top K Frequent Elements](./347-Top-K-Frequent-Elements/) |
 | [594. Longest Harmonious Subsequence](./594-Longest-Harmonious-Subsequence/) |
 | [1394. Find Lucky Integer in an Array](./1394-Find-Lucky-Integer-in-an-Array/) |
-| [3978. Unique Middle Element](./3978-Unique-Middle-Element/) |
 
 ---
 
@@ -70,6 +69,13 @@ Solutions organized by the approach used to solve each problem.
 | **Linear Scan With Conditional Checks** |
 |---|
 | [8. String to Integer atoi](./8-String-to-Integer-atoi/) |
+
+---
+
+<!-- leetlens:section=Linear Scan With Early Return -->
+| **Linear Scan With Early Return** |
+|---|
+| [3978. Unique Middle Element](./3978-Unique-Middle-Element/) |
 
 ---
 
