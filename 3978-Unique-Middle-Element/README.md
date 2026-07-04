@@ -1,8 +1,8 @@
 <!-- leetlens:questionId=3978 -->
-<!-- leetlens:approach=Hash Map Frequency Count -->
+<!-- leetlens:approach=Linear Scan with Early Return -->
 <!-- leetlens:difficulty=Easy -->
 <!-- leetlens:language=java -->
-<!-- leetlens:pushedAt=1783186621330 -->
+<!-- leetlens:pushedAt=1783188572887 -->
 
 # [3978. Unique Middle Element](https://leetcode.com/problems/Unique-Middle-Element/)
 
@@ -35,9 +35,9 @@ Output: [1,2,2]
 
 | Field | Value |
 |---|---|
-| Approach | Hash Map Frequency Count |
+| Approach | Linear Scan with Early Return |
 | Time Complexity | O(n) |
-| Space Complexity | O(n) |
+| Space Complexity | O(1) |
 
 ---
 
