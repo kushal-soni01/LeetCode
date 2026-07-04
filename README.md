@@ -86,6 +86,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Simple Grid Construction With Obstacles -->
+| **Simple Grid Construction With Obstacles** |
+|---|
+| [3963. Create Grid With Exactly One Path](./3963-Create-Grid-With-Exactly-One-Path/) |
+
+---
+
 <!-- leetlens:section=Sliding Window -->
 | **Sliding Window** |
 |---|
