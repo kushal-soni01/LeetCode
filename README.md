@@ -96,6 +96,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Sliding Window -->
 | **Sliding Window** |
 |---|
+| [239. Sliding Window Maximum](./239-Sliding-Window-Maximum/) |
 | [1358. Number of Substrings Containing All Three Characters](./1358-Number-of-Substrings-Containing-All-Three-Characters/) |
 
 ---
