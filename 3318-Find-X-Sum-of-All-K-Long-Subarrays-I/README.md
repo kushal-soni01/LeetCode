@@ -2,7 +2,7 @@
 <!-- leetlens:approach=Sliding Window with Hash Map and Priority Queue -->
 <!-- leetlens:difficulty=Easy -->
 <!-- leetlens:language=java -->
-<!-- leetlens:pushedAt=1783275584753 -->
+<!-- leetlens:pushedAt=1783276344167 -->
 
 # [3318. Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/Find-X-Sum-of-All-K-Long-Subarrays-I/)
 
@@ -49,8 +49,8 @@ Output: 2
 
 | Field | Value |
 |---|---|
-| Approach | Sliding Window with Hash Map and sorting of frequencies |
-| Time Complexity | O(n * k) |
+| Approach | Sliding Window with Hash Map and a custom top-x heap update |
+| Time Complexity | O(n*k) |
 | Space Complexity | O(k) |
 
 ---
