@@ -113,6 +113,7 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [239. Sliding Window Maximum](./239-Sliding-Window-Maximum/) |
 | [1358. Number of Substrings Containing All Three Characters](./1358-Number-of-Substrings-Containing-All-Three-Characters/) |
+| [3318. Find X-Sum of All K-Long Subarrays I](./3318-Find-X-Sum-of-All-K-Long-Subarrays-I/) |
 
 ---
 
