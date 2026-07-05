@@ -45,6 +45,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Hash Set Solution -->
+| **Hash Set Solution** |
+|---|
+| [2357. Make Array Zero by Subtracting Equal Amounts](./2357-Make-Array-Zero-by-Subtracting-Equal-Amounts/) |
+
+---
+
 <!-- leetlens:section=HashSet To Track Unique Characters -->
 | **HashSet To Track Unique Characters** |
 |---|
