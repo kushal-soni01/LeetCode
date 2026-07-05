@@ -25,6 +25,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Divide and Conquer -->
+| **Divide and Conquer** |
+|---|
+| [263. Ugly Number](./263-Ugly-Number/) |
+
+---
+
 <!-- leetlens:section=Greedy -->
 | **Greedy** |
 |---|
@@ -69,7 +76,6 @@ Solutions organized by the approach used to solve each problem.
 | [1337. The K Weakest Rows in a Matrix](./1337-The-K-Weakest-Rows-in-a-Matrix/) |
 | [2099. Find Subsequence of Length K With the Largest Sum](./2099-Find-Subsequence-of-Length-K-With-the-Largest-Sum/) |
 | [2231. Largest Number After Digit Swaps by Parity](./2231-Largest-Number-After-Digit-Swaps-by-Parity/) |
-| [2558. Take Gifts From the Richest Pile](./2558-Take-Gifts-From-the-Richest-Pile/) |
 
 ---
 
@@ -113,7 +119,7 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [239. Sliding Window Maximum](./239-Sliding-Window-Maximum/) |
 | [1358. Number of Substrings Containing All Three Characters](./1358-Number-of-Substrings-Containing-All-Three-Characters/) |
-| [3318. Find X-Sum of All K-Long Subarrays I](./3318-Find-X-Sum-of-All-K-Long-Subarrays-I/) |
+| [3318. Find X Sum of All K Long Subarrays I](./3318-Find-X-Sum-of-All-K-Long-Subarrays-I/) |
 
 ---
 
@@ -157,6 +163,7 @@ Solutions organized by the approach used to solve each problem.
 | [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
 | [1312. Minimum Insertion Steps to Make a String Palindrome](./1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/) |
 | [1464. Maximum Product of Two Elements in an Array](./1464-Maximum-Product-of-Two-Elements-in-an-Array/) |
+| [2558. Take Gifts From the Richest Pile](./2558-Take-Gifts-From-the-Richest-Pile/) |
 | [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
 | [3975. Filter Occupied Intervals](./3975-Filter-Occupied-Intervals/) |
 
