@@ -8,16 +8,16 @@ class Solution {
         }
         for(int i=k-1; i<n; i++){
             map.put(nums[i], map.getOrDefault(nums[i], 0)+1);
-            PriorityQueue<int[]> kMaxHeap = new PriorityQueue<>((a, b) ->{
+            PriorityQueue<int[]> xMaxHeap = new PriorityQueue<>((a, b) ->{
                 return a[0] == b[0] ? Integer.compare(a[1], b[1]) : Integer.compare(a[0], b[0]);
             }); //[occurances, value]
             for(int num: map.keySet()){
-                kMaxHeap.offer(new int[] {map.get(num), num});
-                if(kMaxHeap.size()>x) kMaxHeap.poll();
+                xMaxHeap.offer(new int[] {map.get(num), num});
+                if(xMaxHeap.size()>x) xMaxHeap.poll();
             }
-            int ele = 0, sum = 0;
-            while(ele<x && !kMaxHeap.isEmpty()){
-                int[] data = kMaxHeap.poll();
+            int sum = 0;
+            while(!xMaxHeap.isEmpty()){
+                int[] data = xMaxHeap.poll();
                 sum+=data[0]*data[1];
             }
             ans[i-k+1] = sum;
