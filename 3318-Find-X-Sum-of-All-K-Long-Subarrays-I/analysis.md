@@ -5,8 +5,8 @@
 | Field | Value |
 |---|---|
 | **Approach Used** | Sliding Window with Hash Map and Priority Queue |
-| **Time Complexity** | `O(n * k * log x)` |
-| **Space Complexity** | `O(n)` |
+| **Time Complexity** | `O(n*k*log(x))` |
+| **Space Complexity** | `O(k)` |
 | **Language** | java |
 
 ---
@@ -15,13 +15,13 @@
 
 This solution can be improved.
 
-**Hint:** Maintain a running frequency list and sort it once every k steps instead of using a priority queue to track the top x frequent elements. This reduces time complexity from O(n * k * log x) to O(n * k) because we avoid the O(log x) overhead of priority queue operations
+**Hint:** Use a single pass through the hash map to find the top-x elements instead of a priority queue, this can be achieved by using an array of size x and maintaining it through each window
 
 | | Achieved | Target |
 |---|---|---|
-| **Approach** | Sliding Window with Hash Map and Priority Queue | Sliding Window with Hash Map and sorting of frequencies |
-| **Time** | `O(n * k * log x)` | `O(n * k)` |
-| **Space** | `O(n)` | `O(k)` |
+| **Approach** | Sliding Window with Hash Map and Priority Queue | Sliding Window with Hash Map and a custom top-x heap update |
+| **Time** | `O(n*k*log(x))` | `O(n*k)` |
+| **Space** | `O(k)` | `O(k)` |
 
 ---
 
@@ -29,17 +29,17 @@ This solution can be improved.
 
 **Score:** ⭐⭐⭐⭐☆ (4/5)
 
-The variable names used in the solution are generally clear, but could be improved in some places for better understanding of the code's intent
+The variable names are clear, but the code could be improved by adding comments to explain the purpose of each section
 
 ---
 
 ## Interviewer's Perspective
 
 **Verdict:**
-The candidate demonstrates a good understanding of the problem and the use of appropriate data structures, but the solution could be optimized for better performance. The code quality and clarity are generally good, but some edge cases may need to be revisited. The candidate's approach to the problem is largely correct but could benefit from a more efficient implementation
+The candidate demonstrates a good understanding of the problem and uses an efficient data structure, however the code can be optimized further for better performance. The use of a priority queue is correct but it can be optimized. The code quality and clarity are good, but there is room for improvement in terms of comments and explanations.
 
 **Likely Follow-Up Question:**
-> How would you modify your solution to handle larger inputs and improve performance, considering the time complexity of the current approach?
+> How would you optimize the current implementation to avoid the priority queue and achieve the optimal time complexity of O(n*k)?
 
 ---
 <p align="center">
