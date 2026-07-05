@@ -115,6 +115,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Sorting -->
+| **Sorting** |
+|---|
+| [2500. Delete Greatest Value in Each Row](./2500-Delete-Greatest-Value-in-Each-Row/) |
+
+---
+
 <!-- leetlens:section=Stack -->
 | **Stack** |
 |---|
