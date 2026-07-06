@@ -4,42 +4,34 @@
 
 | Field | Value |
 |---|---|
-| **Approach Used** | Hash Map with Priority Queue |
-| **Time Complexity** | `O(n log k)` |
-| **Space Complexity** | `O(n)` |
+| **Approach Used** | Frequency Count with Array Sorting |
+| **Time Complexity** | `O(n log n)` |
+| **Space Complexity** | `O(1)` |
 | **Language** | java |
 
 ---
 
-##  Optimality
+## ✅ Optimality
 
-This solution can be improved.
-
-**Hint:** Use Bucket Sort: create an array of size 127 to store the frequency of each character, then iterate through the array to construct the result string. This eliminates the Priority Queue, reducing the time complexity from O(n log k) to O(n).
-
-| | Achieved | Target |
-|---|---|---|
-| **Approach** | Hash Map with Priority Queue | Bucket Sort |
-| **Time** | `O(n log k)` | `O(n)` |
-| **Space** | `O(n)` | `O(n)` |
+This solution **is optimal**. Well done!
 
 ---
 
 ## Code Readability
 
-**Score:** ⭐⭐⭐⭐☆ (4/5)
+**Score:** ⭐⭐⭐⭐⭐ (5/5)
 
-The code is generally clear, but variable names like 'map' and 'heap' could be more descriptive.
+The candidate uses clear and concise variable names that accurately reflect the purpose of each variable.
 
 ---
 
 ## Interviewer's Perspective
 
 **Verdict:**
-The candidate demonstrates a good understanding of the problem but has room for improvement in terms of code optimization and variable naming. The solution works correctly and is well-structured, but it may not be efficient for very large inputs. The use of a Priority Queue adds unnecessary complexity.
+The candidate demonstrates a good understanding of the problem and provides a clear, efficient solution. The code is well-structured and easy to follow. However, the candidate could benefit from considering additional edge cases, such as an empty input string.
 
 **Likely Follow-Up Question:**
-> How would you modify your solution to handle cases where the input string is extremely large and the Priority Queue becomes a bottleneck?
+> How would you modify your solution to handle non-ASCII characters, which have a larger character code value than 127?
 
 ---
 <p align="center">
