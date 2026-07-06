@@ -54,7 +54,6 @@ Solutions organized by the approach used to solve each problem.
 | **Hash Map** |
 |---|
 | [347. Top K Frequent Elements](./347-Top-K-Frequent-Elements/) |
-| [451. Sort Characters By Frequency](./451-Sort-Characters-By-Frequency/) |
 | [594. Longest Harmonious Subsequence](./594-Longest-Harmonious-Subsequence/) |
 | [1394. Find Lucky Integer in an Array](./1394-Find-Lucky-Integer-in-an-Array/) |
 
@@ -134,6 +133,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Sorting -->
 | **Sorting** |
 |---|
+| [451. Sort Characters By Frequency](./451-Sort-Characters-By-Frequency/) |
 | [2500. Delete Greatest Value in Each Row](./2500-Delete-Greatest-Value-in-Each-Row/) |
 
 ---
