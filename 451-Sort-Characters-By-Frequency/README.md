@@ -1,8 +1,8 @@
 <!-- leetlens:questionId=451 -->
-<!-- leetlens:approach=Hash Map with Priority Queue -->
+<!-- leetlens:approach=Frequency Count with Array Sorting -->
 <!-- leetlens:difficulty=Medium -->
 <!-- leetlens:language=java -->
-<!-- leetlens:pushedAt=1783360442909 -->
+<!-- leetlens:pushedAt=1783361026692 -->
 
 # [451. Sort Characters By Frequency](https://leetcode.com/problems/Sort-Characters-By-Frequency/)
 
@@ -41,9 +41,9 @@ Output: "cccaaa"
 
 | Field | Value |
 |---|---|
-| Approach | Bucket Sort |
-| Time Complexity | O(n) |
-| Space Complexity | O(n) |
+| Approach | Frequency Count with Array Sorting |
+| Time Complexity | O(n log n) |
+| Space Complexity | O(1) |
 
 ---
 
