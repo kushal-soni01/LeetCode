@@ -1,19 +1,15 @@
 class Solution {
     public String frequencySort(String s) {
-        HashMap<Character, Integer> map = new HashMap<>();
-        PriorityQueue<int[]> heap = new PriorityQueue<>((a,b) -> {
-            return a[1] != b[1] ? Integer.compare(b[1], a[1]) : Integer.compare(a[0], b[0]);
-        });//char, freq.
+        int freqMap[][] = new int[128][2];
         for(char c: s.toCharArray()){
-            map.put(c, map.getOrDefault(c, 0)+1);
+            freqMap[c][0] = c;
+            freqMap[c][1]++;
         }
-        for(char c: map.keySet()){
-            heap.offer(new int[]{c, map.get(c)});
-        }
+        Arrays.sort(freqMap, (a, b) -> Integer.compare(b[1], a[1]));
         StringBuilder sb = new StringBuilder();
-        while(!heap.isEmpty()){
-            int[] charData = heap.poll();
-            sb.append(String.valueOf((char)charData[0]).repeat(charData[1]));
+        for(int i=0; i<128; i++){
+            if(freqMap[i][1] == 0) break;
+            sb.append(String.valueOf((char)freqMap[i][0]).repeat(freqMap[i][1]));
         }
         return sb.toString();
     }
