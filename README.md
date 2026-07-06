@@ -32,6 +32,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Dynamic Programming -->
+| **Dynamic Programming** |
+|---|
+| [264. Ugly Number II](./264-Ugly-Number-II/) |
+
+---
+
 <!-- leetlens:section=Greedy -->
 | **Greedy** |
 |---|
