@@ -1,8 +1,8 @@
 <!-- leetlens:questionId=239 -->
-<!-- leetlens:approach=Sliding Window with Monotonic Dequeue -->
+<!-- leetlens:approach=Sliding Window with Monotonic Deque -->
 <!-- leetlens:difficulty=Hard -->
 <!-- leetlens:language=java -->
-<!-- leetlens:pushedAt=1783165496405 -->
+<!-- leetlens:pushedAt=1783438430677 -->
 
 # [239. Sliding Window Maximum](https://leetcode.com/problems/Sliding-Window-Maximum/)
 
@@ -45,7 +45,7 @@ Output: 1
 
 | Field | Value |
 |---|---|
-| Approach | Sliding Window with Monotonic Dequeue |
+| Approach | Sliding Window with Monotonic Deque |
 | Time Complexity | O(n) |
 | Space Complexity | O(k) |
 
