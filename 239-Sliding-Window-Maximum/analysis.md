@@ -4,7 +4,7 @@
 
 | Field | Value |
 |---|---|
-| **Approach Used** | Sliding Window with Monotonic Dequeue |
+| **Approach Used** | Sliding Window with Monotonic Deque |
 | **Time Complexity** | `O(n)` |
 | **Space Complexity** | `O(k)` |
 | **Language** | java |
@@ -21,17 +21,17 @@ This solution **is optimal**. Well done!
 
 **Score:** ⭐⭐⭐⭐⭐ (5/5)
 
-The code is well-structured and uses standard variable names, making it easy to understand.
+The variable names are clear and follow standard competitive programming conventions.
 
 ---
 
 ## Interviewer's Perspective
 
 **Verdict:**
-The candidate demonstrates a clear understanding of the problem and uses an optimal approach to solve it. The code quality is high, with good use of variable names and commenting. However, error handling for edge cases such as an empty input array is not explicitly handled.
+The candidate demonstrates a strong understanding of the sliding window technique and its application to this problem. The code quality is high, with clear variable names and a straightforward implementation. However, the candidate could benefit from additional comments to explain the purpose of each section of the code.
 
 **Likely Follow-Up Question:**
-> How would you adapt this solution to handle cases where the input array is null or the sliding window size is larger than the array length?
+> Can you explain why you chose to use a deque to store the indices of the elements in the sliding window, and how you ensure that the deque remains monotonic?
 
 ---
 <p align="center">
