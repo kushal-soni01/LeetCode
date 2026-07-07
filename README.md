@@ -32,13 +32,6 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Dynamic Programming -->
-| **Dynamic Programming** |
-|---|
-| [264. Ugly Number II](./264-Ugly-Number-II/) |
-
----
-
 <!-- leetlens:section=Greedy -->
 | **Greedy** |
 |---|
@@ -168,6 +161,7 @@ Solutions organized by the approach used to solve each problem.
 | [72. Edit Distance](./72-Edit-Distance/) |
 | [94. Binary Tree Inorder Traversal](./94-Binary-Tree-Inorder-Traversal/) |
 | [124. Binary Tree Maximum Path Sum](./124-Binary-Tree-Maximum-Path-Sum/) |
+| [264. Ugly Number II](./264-Ugly-Number-II/) |
 | [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
 | [1312. Minimum Insertion Steps to Make a String Palindrome](./1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/) |
 | [1464. Maximum Product of Two Elements in an Array](./1464-Maximum-Product-of-Two-Elements-in-an-Array/) |
