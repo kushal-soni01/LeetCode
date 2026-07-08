@@ -19,19 +19,19 @@ This solution **is optimal**. Well done!
 
 ## Code Readability
 
-**Score:** ⭐⭐⭐⭐⭐ (5/5)
+**Score:** ⭐⭐⭐⭐☆ (4/5)
 
-The solution uses clear, concise, and standard competitive programming variable names, enhancing readability.
+The code is mostly clear and uses standard variable names, but the variable 'ans' could be more descriptive, such as 'result' or 'topKFrequentElements'.
 
 ---
 
 ## Interviewer's Perspective
 
 **Verdict:**
-The candidate demonstrates a good understanding of the problem by utilizing a priority queue to efficiently find the top k frequent elements. The code is well-structured and clear, but it may benefit from additional comments to explain the reasoning behind the approach. Overall, the solution is correct and efficient.
+The candidate demonstrates a solid understanding of the problem by using a Priority Queue to efficiently find the top k frequent elements. However, the code could benefit from additional comments to explain the logic and algorithm used. Overall, the solution is efficient and correct.
 
 **Likely Follow-Up Question:**
-> How would you modify the solution to handle cases where the input array is too large to fit into memory, and you need to process it in a streaming fashion?
+> How would you modify your solution to handle the case where two elements have the same frequency, and the problem requires returning all elements with the k-th highest frequency?
 
 ---
 <p align="center">
