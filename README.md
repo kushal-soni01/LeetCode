@@ -29,6 +29,7 @@ Solutions organized by the approach used to solve each problem.
 | **Divide and Conquer** |
 |---|
 | [263. Ugly Number](./263-Ugly-Number/) |
+| [761. Special Binary String](./761-Special-Binary-String/) |
 
 ---
 
