@@ -33,6 +33,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Dynamic Programming -->
+| **Dynamic Programming** |
+|---|
+| [516. Longest Palindromic Subsequence](./516-Longest-Palindromic-Subsequence/) |
+
+---
+
 <!-- leetlens:section=Greedy -->
 | **Greedy** |
 |---|
