@@ -36,6 +36,7 @@ Solutions organized by the approach used to solve each problem.
 | **Divide and Conquer** |
 |---|
 | [263. Ugly Number](./263-Ugly-Number/) |
+| [761. Special Binary String](./761-Special-Binary-String/) |
 
 ---
 
@@ -43,6 +44,7 @@ Solutions organized by the approach used to solve each problem.
 | **Dynamic Programming** |
 |---|
 | [516. Longest Palindromic Subsequence](./516-Longest-Palindromic-Subsequence/) |
+| [1092. Shortest Common Supersequence ](./1092-Shortest-Common-Supersequence/) |
 
 ---
 
@@ -50,6 +52,7 @@ Solutions organized by the approach used to solve each problem.
 | **Greedy** |
 |---|
 | [122. Best Time to Buy and Sell Stock II](./122-Best-Time-to-Buy-and-Sell-Stock-II/) |
+| [1328. Break a Palindrome](./1328-Break-a-Palindrome/) |
 | [1488. Avoid Flood in The City](./1488-Avoid-Flood-in-The-City/) |
 | [2144. Minimum Cost of Buying Candies With Discount](./2144-Minimum-Cost-of-Buying-Candies-With-Discount/) |
 | [2335. Minimum Amount of Time to Fill Cups](./2335-Minimum-Amount-of-Time-to-Fill-Cups/) |
@@ -111,6 +114,13 @@ Solutions organized by the approach used to solve each problem.
 | **Modified Prefix Product Calculation** |
 |---|
 | [2906. Construct Product Matrix](./2906-Construct-Product-Matrix/) |
+
+---
+
+<!-- leetlens:section=Prefix Sum -->
+| **Prefix Sum** |
+|---|
+| [3737. Count Subarrays With Majority Element I](./3737-Count-Subarrays-With-Majority-Element-I/) |
 
 ---
 
