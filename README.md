@@ -43,8 +43,9 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Dynamic Programming -->
 | **Dynamic Programming** |
 |---|
+| [509. Fibonacci Number](./509-Fibonacci-Number/) |
 | [516. Longest Palindromic Subsequence](./516-Longest-Palindromic-Subsequence/) |
-| [1092. Shortest Common Supersequence ](./1092-Shortest-Common-Supersequence/) |
+| [1092. Shortest Common Supersequence](./1092-Shortest-Common-Supersequence/) |
 
 ---
 
