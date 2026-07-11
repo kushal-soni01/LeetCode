@@ -159,6 +159,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=String -->
 | **String** |
 |---|
+| [1668. Maximum Repeating Substring](./1668-Maximum-Repeating-Substring/) |
 | [3612. Process String with Special Operations I](./3612-Process-String-with-Special-Operations-I/) |
 
 ---
