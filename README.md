@@ -32,6 +32,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Direct Calculation -->
+| **Direct Calculation** |
+|---|
+| [3986. Number of Elapsed Seconds Between Two Times](./3986-Number-of-Elapsed-Seconds-Between-Two-Times/) |
+
+---
+
 <!-- leetlens:section=Divide and Conquer -->
 | **Divide and Conquer** |
 |---|
