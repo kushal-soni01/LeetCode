@@ -2,7 +2,7 @@
 <!-- leetlens:approach=Sequential Digit Generation -->
 <!-- leetlens:difficulty=Medium -->
 <!-- leetlens:language=java -->
-<!-- leetlens:pushedAt=1783931050548 -->
+<!-- leetlens:pushedAt=1783931069949 -->
 
 # [1291. Sequential Digits](https://leetcode.com/problems/Sequential-Digits/)
 
