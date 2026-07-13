@@ -52,6 +52,7 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [509. Fibonacci Number](./509-Fibonacci-Number/) |
 | [516. Longest Palindromic Subsequence](./516-Longest-Palindromic-Subsequence/) |
+| [877. Stone Game](./877-Stone-Game/) |
 | [1092. Shortest Common Supersequence](./1092-Shortest-Common-Supersequence/) |
 | [3987. Minimum Total Cost to Process All Elements](./3987-Minimum-Total-Cost-to-Process-All-Elements/) |
 
