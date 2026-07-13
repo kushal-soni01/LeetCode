@@ -134,6 +134,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Sequential Digit Generation -->
+| **Sequential Digit Generation** |
+|---|
+| [1291. Sequential Digits](./1291-Sequential-Digits/) |
+
+---
+
 <!-- leetlens:section=Simple Grid Construction With Obstacles -->
 | **Simple Grid Construction With Obstacles** |
 |---|
