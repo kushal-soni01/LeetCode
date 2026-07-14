@@ -20,7 +20,7 @@ This solution achieves the theoretical optimum for this problem.
 | Time | `O(2^n)` |
 | Space | `O(n)` |
 
-The constraints (n ≤ 100) allow exponential time due to the combinatorial nature of the problem, and backtracking with pruning achieves the best possible time complexity while using O(n) space for recursion and temporary storage.
+The problem requires exploring subsets of the input array, which has a worst-case exponential number of subsets (2^n), and the space complexity is O(n) due to the recursion stack and temporary storage for combinations.
 
 
 ---
@@ -29,17 +29,17 @@ The constraints (n ≤ 100) allow exponential time due to the combinatorial natu
 
 **Score:** [****-] (4/5)
 
-The code uses clear variable names and logical structure, but could benefit from additional comments to explain the pruning logic and recursive calls for better clarity during interviews.
+The code is well-structured and uses standard variable names, but the lack of comments explaining the logic behind the pruning and recursion could make it slightly harder to follow for less experienced readers.
 
 ---
 
 ## Interviewer's Perspective
 
 **Verdict:**
-The candidate implemented a correct and optimal solution using backtracking with pruning and sorting. The code is clear and handles edge cases like duplicate candidates effectively. This demonstrates strong problem-solving skills and understanding of constraints.
+The candidate implemented a correct and optimal backtracking solution with pruning to avoid duplicate combinations. The code is efficient and adheres to the problem constraints, but could benefit from additional comments to improve clarity for others reading the code.
 
 **Likely Follow-Up Question:**
-> How would you modify this solution to handle cases where the input size exceeds the constraints, such as n > 100 or target > 30?
+> How would you modify your solution to handle cases where the input array is extremely large, such as n > 1000, and the target is also very large?
 
 ---
 <p align="center">
