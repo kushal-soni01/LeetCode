@@ -6,8 +6,9 @@ Solutions organized by the approach used to solve each problem.
 | **Backtracking** |
 |---|
 | [40. Combination Sum II](./40-Combination-Sum-II/) |
-| [51. N-Queens](./51-N-Queens/) |
+| [51. N Queens](./51-N-Queens/) |
 | [78. Subsets](./78-Subsets/) |
+| [90. Subsets II](./90-Subsets-II/) |
 
 ---
 
