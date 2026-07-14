@@ -5,6 +5,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Backtracking -->
 | **Backtracking** |
 |---|
+| [40. Combination Sum II](./40-Combination-Sum-II/) |
 | [78. Subsets](./78-Subsets/) |
 
 ---
