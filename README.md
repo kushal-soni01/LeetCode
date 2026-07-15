@@ -61,6 +61,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Dynamic Programming -->
 | **Dynamic Programming** |
 |---|
+| [120. Triangle](./120-Triangle/) |
 | [509. Fibonacci Number](./509-Fibonacci-Number/) |
 | [516. Longest Palindromic Subsequence](./516-Longest-Palindromic-Subsequence/) |
 | [877. Stone Game](./877-Stone-Game/) |
