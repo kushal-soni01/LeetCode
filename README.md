@@ -9,7 +9,7 @@ Solutions organized by the approach used to solve each problem.
 | [51. N Queens](./51-N-Queens/) |
 | [78. Subsets](./78-Subsets/) |
 | [90. Subsets II](./90-Subsets-II/) |
-| [2044. Count Number of Maximum Bitwise-OR Subsets](./2044-Count-Number-of-Maximum-Bitwise-OR-Subsets/) |
+| [2044. Count Number of Maximum Bitwise OR Subsets](./2044-Count-Number-of-Maximum-Bitwise-OR-Subsets/) |
 
 ---
 
@@ -40,6 +40,13 @@ Solutions organized by the approach used to solve each problem.
 | **Direct Calculation** |
 |---|
 | [3986. Number of Elapsed Seconds Between Two Times](./3986-Number-of-Elapsed-Seconds-Between-Two-Times/) |
+
+---
+
+<!-- leetlens:section=Direct Formula Computation With Euclidean GCD -->
+| **Direct Formula Computation With Euclidean GCD** |
+|---|
+| [3658. GCD of Odd and Even Sums](./3658-GCD-of-Odd-and-Even-Sums/) |
 
 ---
 
