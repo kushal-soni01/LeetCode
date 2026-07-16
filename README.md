@@ -181,7 +181,6 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [451. Sort Characters By Frequency](./451-Sort-Characters-By-Frequency/) |
 | [2500. Delete Greatest Value in Each Row](./2500-Delete-Greatest-Value-in-Each-Row/) |
-| [3867. Sum of GCD of Formed Pairs](./3867-Sum-of-GCD-of-Formed-Pairs/) |
 
 ---
 
@@ -207,6 +206,7 @@ Solutions organized by the approach used to solve each problem.
 | [16. 3Sum Closest](./16-3Sum-Closest/) |
 | [18. 4Sum](./18-4Sum/) |
 | [19. Remove Nth Node From End of List](./19-Remove-Nth-Node-From-End-of-List/) |
+| [1768. Merge Strings Alternately](./1768-Merge-Strings-Alternately/) |
 
 ---
 
@@ -222,6 +222,7 @@ Solutions organized by the approach used to solve each problem.
 | [1464. Maximum Product of Two Elements in an Array](./1464-Maximum-Product-of-Two-Elements-in-an-Array/) |
 | [2558. Take Gifts From the Richest Pile](./2558-Take-Gifts-From-the-Richest-Pile/) |
 | [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
+| [3867. Sum of GCD of Formed Pairs](./3867-Sum-of-GCD-of-Formed-Pairs/) |
 | [3975. Filter Occupied Intervals](./3975-Filter-Occupied-Intervals/) |
 
 ---
