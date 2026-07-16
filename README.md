@@ -181,6 +181,7 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [451. Sort Characters By Frequency](./451-Sort-Characters-By-Frequency/) |
 | [2500. Delete Greatest Value in Each Row](./2500-Delete-Greatest-Value-in-Each-Row/) |
+| [3867. Sum of GCD of Formed Pairs](./3867-Sum-of-GCD-of-Formed-Pairs/) |
 
 ---
 
