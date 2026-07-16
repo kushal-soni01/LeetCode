@@ -211,6 +211,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Two-pass Algorithm With A Maximum Search And Comparison -->
+| **Two-pass Algorithm With A Maximum Search And Comparison** |
+|---|
+| [1431. Kids With the Greatest Number of Candies](./1431-Kids-With-the-Greatest-Number-of-Candies/) |
+
+---
+
 <!-- leetlens:section=Unknown -->
 | **Unknown** |
 |---|
