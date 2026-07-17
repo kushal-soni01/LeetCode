@@ -214,6 +214,7 @@ Solutions organized by the approach used to solve each problem.
 | [16. 3Sum Closest](./16-3Sum-Closest/) |
 | [18. 4Sum](./18-4Sum/) |
 | [19. Remove Nth Node From End of List](./19-Remove-Nth-Node-From-End-of-List/) |
+| [345. Reverse Vowels of a String](./345-Reverse-Vowels-of-a-String/) |
 | [1768. Merge Strings Alternately](./1768-Merge-Strings-Alternately/) |
 
 ---
