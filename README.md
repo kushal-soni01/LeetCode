@@ -201,6 +201,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=String -->
 | **String** |
 |---|
+| [151. Reverse Words in a String](./151-Reverse-Words-in-a-String/) |
 | [1071. Greatest Common Divisor of Strings](./1071-Greatest-Common-Divisor-of-Strings/) |
 | [1668. Maximum Repeating Substring](./1668-Maximum-Repeating-Substring/) |
 | [3612. Process String with Special Operations I](./3612-Process-String-with-Special-Operations-I/) |
@@ -214,7 +215,6 @@ Solutions organized by the approach used to solve each problem.
 | [16. 3Sum Closest](./16-3Sum-Closest/) |
 | [18. 4Sum](./18-4Sum/) |
 | [19. Remove Nth Node From End of List](./19-Remove-Nth-Node-From-End-of-List/) |
-| [345. Reverse Vowels of a String](./345-Reverse-Vowels-of-a-String/) |
 | [1768. Merge Strings Alternately](./1768-Merge-Strings-Alternately/) |
 
 ---
@@ -226,6 +226,7 @@ Solutions organized by the approach used to solve each problem.
 | [94. Binary Tree Inorder Traversal](./94-Binary-Tree-Inorder-Traversal/) |
 | [124. Binary Tree Maximum Path Sum](./124-Binary-Tree-Maximum-Path-Sum/) |
 | [264. Ugly Number II](./264-Ugly-Number-II/) |
+| [345. Reverse Vowels of a String](./345-Reverse-Vowels-of-a-String/) |
 | [605. Can Place Flowers](./605-Can-Place-Flowers/) |
 | [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
 | [1312. Minimum Insertion Steps to Make a String Palindrome](./1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/) |
