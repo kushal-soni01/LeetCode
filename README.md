@@ -153,6 +153,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Prefix And Suffix Product Arrays -->
+| **Prefix And Suffix Product Arrays** |
+|---|
+| [238. Product of Array Except Self](./238-Product-of-Array-Except-Self/) |
+
+---
+
 <!-- leetlens:section=Prefix Sum -->
 | **Prefix Sum** |
 |---|
