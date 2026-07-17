@@ -13,6 +13,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Binary Search -->
+| **Binary Search** |
+|---|
+| [3312. Sorted GCD Pair Queries](./3312-Sorted-GCD-Pair-Queries/) |
+
+---
+
 <!-- leetlens:section=Bit Manipulation -->
 | **Bit Manipulation** |
 |---|
@@ -74,7 +81,6 @@ Solutions organized by the approach used to solve each problem.
 | **Greedy** |
 |---|
 | [122. Best Time to Buy and Sell Stock II](./122-Best-Time-to-Buy-and-Sell-Stock-II/) |
-| [605. Can Place Flowers](./605-Can-Place-Flowers/) |
 | [1328. Break a Palindrome](./1328-Break-a-Palindrome/) |
 | [1488. Avoid Flood in The City](./1488-Avoid-Flood-in-The-City/) |
 | [2144. Minimum Cost of Buying Candies With Discount](./2144-Minimum-Cost-of-Buying-Candies-With-Discount/) |
@@ -212,13 +218,6 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Two-pass Algorithm With A Maximum Search And Comparison -->
-| **Two-pass Algorithm With A Maximum Search And Comparison** |
-|---|
-| [1431. Kids With the Greatest Number of Candies](./1431-Kids-With-the-Greatest-Number-of-Candies/) |
-
----
-
 <!-- leetlens:section=Unknown -->
 | **Unknown** |
 |---|
@@ -226,8 +225,10 @@ Solutions organized by the approach used to solve each problem.
 | [94. Binary Tree Inorder Traversal](./94-Binary-Tree-Inorder-Traversal/) |
 | [124. Binary Tree Maximum Path Sum](./124-Binary-Tree-Maximum-Path-Sum/) |
 | [264. Ugly Number II](./264-Ugly-Number-II/) |
+| [605. Can Place Flowers](./605-Can-Place-Flowers/) |
 | [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
 | [1312. Minimum Insertion Steps to Make a String Palindrome](./1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/) |
+| [1431. Kids With the Greatest Number of Candies](./1431-Kids-With-the-Greatest-Number-of-Candies/) |
 | [1464. Maximum Product of Two Elements in an Array](./1464-Maximum-Product-of-Two-Elements-in-an-Array/) |
 | [2558. Take Gifts From the Richest Pile](./2558-Take-Gifts-From-the-Richest-Pile/) |
 | [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
