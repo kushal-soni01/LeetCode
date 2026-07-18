@@ -224,6 +224,7 @@ Solutions organized by the approach used to solve each problem.
 | [18. 4Sum](./18-4Sum/) |
 | [19. Remove Nth Node From End of List](./19-Remove-Nth-Node-From-End-of-List/) |
 | [283. Move Zeroes](./283-Move-Zeroes/) |
+| [392. Is Subsequence](./392-Is-Subsequence/) |
 | [443. String Compression](./443-String-Compression/) |
 | [1768. Merge Strings Alternately](./1768-Merge-Strings-Alternately/) |
 
