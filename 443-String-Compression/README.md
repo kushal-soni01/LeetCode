@@ -1,8 +1,8 @@
 <!-- leetlens:questionId=443 -->
-<!-- leetlens:approach=Two Pointers with in-place modification -->
+<!-- leetlens:approach=Two Pointers with In-place Modification -->
 <!-- leetlens:difficulty=Medium -->
 <!-- leetlens:language=java -->
-<!-- leetlens:pushedAt=1784398669658 -->
+<!-- leetlens:pushedAt=1784399313022 -->
 
 # [443. String Compression](https://leetcode.com/problems/String-Compression/)
 
@@ -37,7 +37,7 @@ Output: ["a"]
 
 | Field | Value |
 |---|---|
-| Approach | Two Pointers with in-place modification |
+| Approach | Two Pointers with In-place Modification |
 | Time Complexity | O(n) |
 | Space Complexity | O(1) |
 
