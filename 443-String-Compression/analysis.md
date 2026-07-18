@@ -4,7 +4,7 @@
 
 | Field | Value |
 |---|---|
-| **Approach Used** | Two Pointers with in-place modification |
+| **Approach Used** | Two Pointers with In-place Modification |
 | **Time Complexity** | `O(n)` |
 | **Space Complexity** | `O(1)` |
 | **Language** | java |
@@ -20,26 +20,26 @@ This solution achieves the theoretical optimum for this problem.
 | Time | `O(n)` |
 | Space | `O(1)` |
 
-The problem requires processing each character in the input array exactly once, which is O(n), and the in-place modification constraint ensures O(1) space.
+The problem requires processing each character in the input array exactly once, and the in-place modification constraint ensures constant space usage.
 
 
 ---
 
 ## Code Readability
 
-**Score:** [***--] (3/5)
+**Score:** [****-] (4/5)
 
-The code is functional but uses a StringBuilder unnecessarily, which adds complexity to the logic and makes it harder to follow; variable names like 'sb' and 'idx' could be more descriptive.
+The code is well-structured and uses standard variable names, but the lack of comments explaining the logic slightly reduces readability for less experienced readers.
 
 ---
 
 ## Interviewer's Perspective
 
 **Verdict:**
-The candidate implemented a correct and optimal solution using a two-pointer approach, but the use of StringBuilder is unnecessary and adds overhead. The code could be simplified for better readability and maintainability.
+The candidate implemented an optimal solution using a two-pointer approach with in-place modification, adhering to the problem's constraints. The code is efficient and well-structured, but could benefit from additional comments to improve clarity for others reading the code.
 
 **Likely Follow-Up Question:**
-> Why did you choose to use a StringBuilder instead of directly counting consecutive characters and writing to the array?
+> How would you modify your solution to handle a scenario where the input array contains Unicode characters instead of single-byte characters?
 
 ---
 <p align="center">
