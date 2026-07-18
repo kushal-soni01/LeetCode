@@ -132,6 +132,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Iterative GCD With Min-max Extraction -->
+| **Iterative GCD With Min-max Extraction** |
+|---|
+| [1979. Find Greatest Common Divisor of Array](./1979-Find-Greatest-Common-Divisor-of-Array/) |
+
+---
+
 <!-- leetlens:section=Linear Scan With Conditional Checks -->
 | **Linear Scan With Conditional Checks** |
 |---|
