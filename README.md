@@ -98,7 +98,6 @@ Solutions organized by the approach used to solve each problem.
 | [347. Top K Frequent Elements](./347-Top-K-Frequent-Elements/) |
 | [594. Longest Harmonious Subsequence](./594-Longest-Harmonious-Subsequence/) |
 | [1394. Find Lucky Integer in an Array](./1394-Find-Lucky-Integer-in-an-Array/) |
-| [1679. Max Number of K-Sum Pairs](./1679-Max-Number-of-K-Sum-Pairs/) |
 
 ---
 
@@ -154,6 +153,13 @@ Solutions organized by the approach used to solve each problem.
 | **Modified Prefix Product Calculation** |
 |---|
 | [2906. Construct Product Matrix](./2906-Construct-Product-Matrix/) |
+
+---
+
+<!-- leetlens:section=Modulo-based Index Mapping With 1D Flattening -->
+| **Modulo-based Index Mapping With 1D Flattening** |
+|---|
+| [1260. Shift 2D Grid](./1260-Shift-2D-Grid/) |
 
 ---
 
@@ -246,6 +252,7 @@ Solutions organized by the approach used to solve each problem.
 | [1312. Minimum Insertion Steps to Make a String Palindrome](./1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/) |
 | [1431. Kids With the Greatest Number of Candies](./1431-Kids-With-the-Greatest-Number-of-Candies/) |
 | [1464. Maximum Product of Two Elements in an Array](./1464-Maximum-Product-of-Two-Elements-in-an-Array/) |
+| [1679. Max Number of K Sum Pairs](./1679-Max-Number-of-K-Sum-Pairs/) |
 | [1979. Find Greatest Common Divisor of Array](./1979-Find-Greatest-Common-Divisor-of-Array/) |
 | [2558. Take Gifts From the Richest Pile](./2558-Take-Gifts-From-the-Richest-Pile/) |
 | [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
