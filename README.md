@@ -156,13 +156,6 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Modulo-based Index Mapping With 1D Flattening -->
-| **Modulo-based Index Mapping With 1D Flattening** |
-|---|
-| [1260. Shift 2D Grid](./1260-Shift-2D-Grid/) |
-
----
-
 <!-- leetlens:section=Prefix And Suffix Product Arrays -->
 | **Prefix And Suffix Product Arrays** |
 |---|
@@ -228,6 +221,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Two Pointer -->
 | **Two Pointer** |
 |---|
+| [11. Container With Most Water](./11-Container-With-Most-Water/) |
 | [15. 3Sum](./15-3Sum/) |
 | [16. 3Sum Closest](./16-3Sum-Closest/) |
 | [18. 4Sum](./18-4Sum/) |
@@ -249,6 +243,7 @@ Solutions organized by the approach used to solve each problem.
 | [443. String Compression](./443-String-Compression/) |
 | [605. Can Place Flowers](./605-Can-Place-Flowers/) |
 | [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
+| [1260. Shift 2D Grid](./1260-Shift-2D-Grid/) |
 | [1312. Minimum Insertion Steps to Make a String Palindrome](./1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/) |
 | [1431. Kids With the Greatest Number of Candies](./1431-Kids-With-the-Greatest-Number-of-Candies/) |
 | [1464. Maximum Product of Two Elements in an Array](./1464-Maximum-Product-of-Two-Elements-in-an-Array/) |
