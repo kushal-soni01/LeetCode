@@ -101,6 +101,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Hash Set -->
+| **Hash Set** |
+|---|
+| [1. Two Sum](./1-Two-Sum/) |
+
+---
+
 <!-- leetlens:section=Hash Set Solution -->
 | **Hash Set Solution** |
 |---|
