@@ -27,6 +27,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Block Iteration -->
+| **Block Iteration** |
+|---|
+| [3499. Maximize Active Section with Trade I](./3499-Maximize-Active-Section-with-Trade-I/) |
+
+---
+
 <!-- leetlens:section=Brute Force -->
 | **Brute Force** |
 |---|
