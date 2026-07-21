@@ -1,8 +1,8 @@
 <!-- leetlens:questionId=72 -->
-<!-- leetlens:approach=Bottom-Up DP -->
+<!-- leetlens:approach=Dynamic Programming -->
 <!-- leetlens:difficulty=Medium -->
 <!-- leetlens:language=java -->
-<!-- leetlens:pushedAt=1782740467128 -->
+<!-- leetlens:pushedAt=1784653994808 -->
 
 # [72. Edit Distance](https://leetcode.com/problems/Edit-Distance/)
 
@@ -42,7 +42,7 @@ Output: "execution"
 
 | Field | Value |
 |---|---|
-| Approach | Bottom-Up DP |
+| Approach | Dynamic Programming |
 | Time Complexity | O(m*n) |
 | Space Complexity | O(n) |
 
