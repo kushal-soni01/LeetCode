@@ -68,6 +68,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Dynamic Programming -->
 | **Dynamic Programming** |
 |---|
+| [72. Edit Distance](./72-Edit-Distance/) |
 | [120. Triangle](./120-Triangle/) |
 | [509. Fibonacci Number](./509-Fibonacci-Number/) |
 | [516. Longest Palindromic Subsequence](./516-Longest-Palindromic-Subsequence/) |
@@ -251,7 +252,6 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Unknown -->
 | **Unknown** |
 |---|
-| [72. Edit Distance](./72-Edit-Distance/) |
 | [94. Binary Tree Inorder Traversal](./94-Binary-Tree-Inorder-Traversal/) |
 | [124. Binary Tree Maximum Path Sum](./124-Binary-Tree-Maximum-Path-Sum/) |
 | [264. Ugly Number II](./264-Ugly-Number-II/) |
