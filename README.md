@@ -135,6 +135,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Incremental Array Update -->
+| **Incremental Array Update** |
+|---|
+| [66. Plus One](./66-Plus-One/) |
+
+---
+
 <!-- leetlens:section=Insertion Sort -->
 | **Insertion Sort** |
 |---|
