@@ -1,37 +1,45 @@
-# Analysis — 72. Edit Distance
+# Analysis -- 72. Edit Distance
 
 ## Submission Summary
 
 | Field | Value |
 |---|---|
-| **Approach Used** | Bottom-Up DP |
+| **Approach Used** | Dynamic Programming |
 | **Time Complexity** | `O(m*n)` |
 | **Space Complexity** | `O(n)` |
 | **Language** | java |
 
 ---
 
-## ✅ Optimality
+## Optimal Solution
 
-This solution **is optimal**. Well done!
+This solution achieves the theoretical optimum for this problem.
+
+| Dimension | Complexity |
+|---|---|
+| Time | `O(m*n)` |
+| Space | `O(n)` |
+
+Given the constraints 0 <= word1.length, word2.length <= 500, a dynamic programming approach achieves O(m*n) time with O(n) space.
+
 
 ---
 
 ## Code Readability
 
-**Score:** ⭐⭐⭐⭐☆ (4/5)
+**Score:** [*****] (5/5)
 
-The variable names are concise and easy to understand, but the code could benefit from additional comments to explain the logic behind the dynamic programming approach, losing a point for clarity.
+The code uses standard variable names and has proper line spacing, making it easy to read and understand.
 
 ---
 
 ## Interviewer's Perspective
 
 **Verdict:**
-The candidate demonstrates a strong understanding of the problem and effectively applies dynamic programming to solve it. The code is generally clear and well-structured, but could be improved with comments to explain the logic. However, the solution is efficient and does not miss any edge cases. Overall, the candidate shows a good grasp of algorithms and problem-solving skills.
+The candidate demonstrates a clear understanding of dynamic programming and its application to the edit distance problem. The code is well-structured and easy to follow. The candidate's approach is optimal in terms of time and space complexity.
 
 **Likely Follow-Up Question:**
-> How would you modify the current solution to handle cases where the input strings can be of length up to 1000, and the current space complexity becomes a concern?
+> How would you modify the dynamic programming approach to handle cases where the input strings are very large and do not fit into memory?
 
 ---
 <p align="center">
