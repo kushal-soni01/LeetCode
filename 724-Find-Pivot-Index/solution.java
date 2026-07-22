@@ -5,7 +5,7 @@ class Solution {
             totalSum += num;
         }
         for(int i=0; i<nums.length; i++){
-            if((totalSum-nums[i])/2.0 == leftSum) return i;
+            if((totalSum-nums[i]) == leftSum*2) return i;
             leftSum += nums[i];
         }
         return -1;
