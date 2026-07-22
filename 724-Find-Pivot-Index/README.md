@@ -2,7 +2,7 @@
 <!-- leetlens:approach=Prefix Sum with Single Pass Validation -->
 <!-- leetlens:difficulty=Easy -->
 <!-- leetlens:language=java -->
-<!-- leetlens:pushedAt=1784742902418 -->
+<!-- leetlens:pushedAt=1784743190683 -->
 
 # [724. Find Pivot Index](https://leetcode.com/problems/Find-Pivot-Index/)
 
