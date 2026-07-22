@@ -20,26 +20,26 @@ This solution achieves the theoretical optimum for this problem.
 | Time | `O(n)` |
 | Space | `O(1)` |
 
-The constraints (n ≤ 10^4) allow O(n) operations, and using prefix sums avoids extra space beyond a few variables.
+The constraints (n ≤ 10^4) allow for O(n) operations, and the prefix sum approach achieves this with constant space by iterating through the array twice.
 
 
 ---
 
 ## Code Readability
 
-**Score:** [****-] (4/5)
+**Score:** [*****] (5/5)
 
-The code is clear and uses standard variable names, but the division operation introduces unnecessary complexity and could be replaced with subtraction for better clarity and precision.
+The code uses clear variable names (totalSum, leftSum) and concise logic with proper spacing, making it easy to follow.
 
 ---
 
 ## Interviewer's Perspective
 
 **Verdict:**
-The candidate implemented an optimal solution using prefix sums, demonstrating a solid understanding of the problem constraints and efficient algorithm design. The code is clear and handles edge cases well, but the use of division for comparison could lead to precision issues in some languages. Overall, this is a strong submission for an easy-level problem.
+The candidate implemented an optimal solution using a prefix sum approach, demonstrating a solid understanding of the problem constraints and efficient algorithm design. The code is clean, readable, and handles edge cases effectively. This is a strong submission for an easy-level problem.
 
 **Likely Follow-Up Question:**
-> Why did you use division for comparison instead of subtraction, and how would you address potential precision issues in languages with floating-point arithmetic?
+> How would you modify your solution to handle cases where the input array is extremely large and memory constraints are tighter, such as streaming input data?
 
 ---
 <p align="center">
