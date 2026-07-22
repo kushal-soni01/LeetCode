@@ -188,6 +188,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Prefix Sum -->
 | **Prefix Sum** |
 |---|
+| [1732. Find the Highest Altitude](./1732-Find-the-Highest-Altitude/) |
 | [3737. Count Subarrays With Majority Element I](./3737-Count-Subarrays-With-Majority-Element-I/) |
 
 ---
