@@ -258,6 +258,7 @@ Solutions organized by the approach used to solve each problem.
 | [18. 4Sum](./18-4Sum/) |
 | [19. Remove Nth Node From End of List](./19-Remove-Nth-Node-From-End-of-List/) |
 | [392. Is Subsequence](./392-Is-Subsequence/) |
+| [977. Squares of a Sorted Array](./977-Squares-of-a-Sorted-Array/) |
 | [1768. Merge Strings Alternately](./1768-Merge-Strings-Alternately/) |
 
 ---
