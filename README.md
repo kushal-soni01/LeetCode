@@ -123,6 +123,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Hash Set-based Difference Computation -->
+| **Hash Set-based Difference Computation** |
+|---|
+| [2215. Find the Difference of Two Arrays](./2215-Find-the-Difference-of-Two-Arrays/) |
+
+---
+
 <!-- leetlens:section=HashSet To Track Unique Characters -->
 | **HashSet To Track Unique Characters** |
 |---|
