@@ -107,6 +107,7 @@ Solutions organized by the approach used to solve each problem.
 | [594. Longest Harmonious Subsequence](./594-Longest-Harmonious-Subsequence/) |
 | [1207. Unique Number of Occurrences](./1207-Unique-Number-of-Occurrences/) |
 | [1394. Find Lucky Integer in an Array](./1394-Find-Lucky-Integer-in-an-Array/) |
+| [2352. Equal Row and Column Pairs](./2352-Equal-Row-and-Column-Pairs/) |
 
 ---
 
@@ -121,13 +122,6 @@ Solutions organized by the approach used to solve each problem.
 | **Hash Set Solution** |
 |---|
 | [2357. Make Array Zero by Subtracting Equal Amounts](./2357-Make-Array-Zero-by-Subtracting-Equal-Amounts/) |
-
----
-
-<!-- leetlens:section=Hash Set-based Difference Computation -->
-| **Hash Set-based Difference Computation** |
-|---|
-| [2215. Find the Difference of Two Arrays](./2215-Find-the-Difference-of-Two-Arrays/) |
 
 ---
 
@@ -285,6 +279,7 @@ Solutions organized by the approach used to solve each problem.
 | [1464. Maximum Product of Two Elements in an Array](./1464-Maximum-Product-of-Two-Elements-in-an-Array/) |
 | [1679. Max Number of K Sum Pairs](./1679-Max-Number-of-K-Sum-Pairs/) |
 | [1979. Find Greatest Common Divisor of Array](./1979-Find-Greatest-Common-Divisor-of-Array/) |
+| [2215. Find the Difference of Two Arrays](./2215-Find-the-Difference-of-Two-Arrays/) |
 | [2558. Take Gifts From the Richest Pile](./2558-Take-Gifts-From-the-Richest-Pile/) |
 | [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
 | [3867. Sum of GCD of Formed Pairs](./3867-Sum-of-GCD-of-Formed-Pairs/) |
