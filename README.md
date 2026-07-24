@@ -27,6 +27,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Bitmask-based Enumeration With Auxiliary Arrays -->
+| **Bitmask-based Enumeration With Auxiliary Arrays** |
+|---|
+| [3514. Number of Unique XOR Triplets II](./3514-Number-of-Unique-XOR-Triplets-II/) |
+
+---
+
 <!-- leetlens:section=Block Iteration -->
 | **Block Iteration** |
 |---|
