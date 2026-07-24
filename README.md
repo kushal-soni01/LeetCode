@@ -105,6 +105,7 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [347. Top K Frequent Elements](./347-Top-K-Frequent-Elements/) |
 | [594. Longest Harmonious Subsequence](./594-Longest-Harmonious-Subsequence/) |
+| [1207. Unique Number of Occurrences](./1207-Unique-Number-of-Occurrences/) |
 | [1394. Find Lucky Integer in an Array](./1394-Find-Lucky-Integer-in-an-Array/) |
 
 ---
