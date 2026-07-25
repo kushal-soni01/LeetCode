@@ -142,6 +142,7 @@ Solutions organized by the approach used to solve each problem.
 | [1337. The K Weakest Rows in a Matrix](./1337-The-K-Weakest-Rows-in-a-Matrix/) |
 | [2099. Find Subsequence of Length K With the Largest Sum](./2099-Find-Subsequence-of-Length-K-With-the-Largest-Sum/) |
 | [2231. Largest Number After Digit Swaps by Parity](./2231-Largest-Number-After-Digit-Swaps-by-Parity/) |
+| [2336. Smallest Number in Infinite Set](./2336-Smallest-Number-in-Infinite-Set/) |
 
 ---
 
@@ -243,7 +244,6 @@ Solutions organized by the approach used to solve each problem.
 | **Stack** |
 |---|
 | [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/) |
-| [2390. Removing Stars From a String](./2390-Removing-Stars-From-a-String/) |
 
 ---
 
@@ -289,6 +289,7 @@ Solutions organized by the approach used to solve each problem.
 | [1679. Max Number of K Sum Pairs](./1679-Max-Number-of-K-Sum-Pairs/) |
 | [1979. Find Greatest Common Divisor of Array](./1979-Find-Greatest-Common-Divisor-of-Array/) |
 | [2215. Find the Difference of Two Arrays](./2215-Find-the-Difference-of-Two-Arrays/) |
+| [2390. Removing Stars From a String](./2390-Removing-Stars-From-a-String/) |
 | [2558. Take Gifts From the Richest Pile](./2558-Take-Gifts-From-the-Richest-Pile/) |
 | [3514. Number of Unique XOR Triplets II](./3514-Number-of-Unique-XOR-Triplets-II/) |
 | [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
