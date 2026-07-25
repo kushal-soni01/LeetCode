@@ -243,6 +243,7 @@ Solutions organized by the approach used to solve each problem.
 | **Stack** |
 |---|
 | [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/) |
+| [2390. Removing Stars From a String](./2390-Removing-Stars-From-a-String/) |
 
 ---
 
