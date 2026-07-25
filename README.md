@@ -27,13 +27,6 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Bitmask-based Enumeration With Auxiliary Arrays -->
-| **Bitmask-based Enumeration With Auxiliary Arrays** |
-|---|
-| [3514. Number of Unique XOR Triplets II](./3514-Number-of-Unique-XOR-Triplets-II/) |
-
----
-
 <!-- leetlens:section=Block Iteration -->
 | **Block Iteration** |
 |---|
@@ -166,6 +159,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Iterate Through Digits To Find The Two Largest Values -->
+| **Iterate Through Digits To Find The Two Largest Values** |
+|---|
+| [3536. Maximum Product of Two Digits](./3536-Maximum-Product-of-Two-Digits/) |
+
+---
+
 <!-- leetlens:section=Linear Scan With Conditional Checks -->
 | **Linear Scan With Conditional Checks** |
 |---|
@@ -289,6 +289,7 @@ Solutions organized by the approach used to solve each problem.
 | [1979. Find Greatest Common Divisor of Array](./1979-Find-Greatest-Common-Divisor-of-Array/) |
 | [2215. Find the Difference of Two Arrays](./2215-Find-the-Difference-of-Two-Arrays/) |
 | [2558. Take Gifts From the Richest Pile](./2558-Take-Gifts-From-the-Richest-Pile/) |
+| [3514. Number of Unique XOR Triplets II](./3514-Number-of-Unique-XOR-Triplets-II/) |
 | [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
 | [3867. Sum of GCD of Formed Pairs](./3867-Sum-of-GCD-of-Formed-Pairs/) |
 | [3975. Filter Occupied Intervals](./3975-Filter-Occupied-Intervals/) |
