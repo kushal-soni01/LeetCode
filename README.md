@@ -231,6 +231,7 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [239. Sliding Window Maximum](./239-Sliding-Window-Maximum/) |
 | [643. Maximum Average Subarray I](./643-Maximum-Average-Subarray-I/) |
+| [933. Number of Recent Calls](./933-Number-of-Recent-Calls/) |
 | [1004. Max Consecutive Ones III](./1004-Max-Consecutive-Ones-III/) |
 | [1358. Number of Substrings Containing All Three Characters](./1358-Number-of-Substrings-Containing-All-Three-Characters/) |
 | [1456. Maximum Number of Vowels in a Substring of Given Length](./1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/) |
