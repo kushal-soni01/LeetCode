@@ -219,6 +219,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Single Pass To Find Top 3 Maximums And 2 Minimums -->
+| **Single Pass To Find Top 3 Maximums And 2 Minimums** |
+|---|
+| [628. Maximum Product of Three Numbers](./628-Maximum-Product-of-Three-Numbers/) |
+
+---
+
 <!-- leetlens:section=Sliding Window -->
 | **Sliding Window** |
 |---|
