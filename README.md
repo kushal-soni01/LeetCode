@@ -43,6 +43,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Counting Frequency And Constructing Palindrome -->
+| **Counting Frequency And Constructing Palindrome** |
+|---|
+| [3517. Smallest Palindromic Rearrangement I](./3517-Smallest-Palindromic-Rearrangement-I/) |
+
+---
+
 <!-- leetlens:section=Counting Sort -->
 | **Counting Sort** |
 |---|
@@ -81,7 +88,6 @@ Solutions organized by the approach used to solve each problem.
 | [516. Longest Palindromic Subsequence](./516-Longest-Palindromic-Subsequence/) |
 | [877. Stone Game](./877-Stone-Game/) |
 | [1092. Shortest Common Supersequence](./1092-Shortest-Common-Supersequence/) |
-| [1137. N-th Tribonacci Number](./1137-N-th-Tribonacci-Number/) |
 | [3987. Minimum Total Cost to Process All Elements](./3987-Minimum-Total-Cost-to-Process-All-Elements/) |
 
 ---
@@ -291,6 +297,7 @@ Solutions organized by the approach used to solve each problem.
 | [443. String Compression](./443-String-Compression/) |
 | [605. Can Place Flowers](./605-Can-Place-Flowers/) |
 | [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
+| [1137. N th Tribonacci Number](./1137-N-th-Tribonacci-Number/) |
 | [1260. Shift 2D Grid](./1260-Shift-2D-Grid/) |
 | [1312. Minimum Insertion Steps to Make a String Palindrome](./1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/) |
 | [1431. Kids With the Greatest Number of Candies](./1431-Kids-With-the-Greatest-Number-of-Candies/) |
