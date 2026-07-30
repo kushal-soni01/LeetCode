@@ -261,6 +261,7 @@ Solutions organized by the approach used to solve each problem.
 | **Stack** |
 |---|
 | [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/) |
+| [735. Asteroid Collision](./735-Asteroid-Collision/) |
 
 ---
 
