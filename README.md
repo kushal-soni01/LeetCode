@@ -104,6 +104,7 @@ Solutions organized by the approach used to solve each problem.
 | [1488. Avoid Flood in The City](./1488-Avoid-Flood-in-The-City/) |
 | [2144. Minimum Cost of Buying Candies With Discount](./2144-Minimum-Cost-of-Buying-Candies-With-Discount/) |
 | [2335. Minimum Amount of Time to Fill Cups](./2335-Minimum-Amount-of-Time-to-Fill-Cups/) |
+| [3014. Minimum Number of Pushes to Type Word I](./3014-Minimum-Number-of-Pushes-to-Type-Word-I/) |
 | [3974. Maximum Total Sum of K Selected Elements](./3974-Maximum-Total-Sum-of-K-Selected-Elements/) |
 
 ---
