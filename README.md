@@ -105,6 +105,7 @@ Solutions organized by the approach used to solve each problem.
 | [2144. Minimum Cost of Buying Candies With Discount](./2144-Minimum-Cost-of-Buying-Candies-With-Discount/) |
 | [2335. Minimum Amount of Time to Fill Cups](./2335-Minimum-Amount-of-Time-to-Fill-Cups/) |
 | [3014. Minimum Number of Pushes to Type Word I](./3014-Minimum-Number-of-Pushes-to-Type-Word-I/) |
+| [3016. Minimum Number of Pushes to Type Word II](./3016-Minimum-Number-of-Pushes-to-Type-Word-II/) |
 | [3974. Maximum Total Sum of K Selected Elements](./3974-Maximum-Total-Sum-of-K-Selected-Elements/) |
 
 ---
@@ -261,7 +262,6 @@ Solutions organized by the approach used to solve each problem.
 | **Stack** |
 |---|
 | [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/) |
-| [735. Asteroid Collision](./735-Asteroid-Collision/) |
 
 ---
 
@@ -299,6 +299,7 @@ Solutions organized by the approach used to solve each problem.
 | [345. Reverse Vowels of a String](./345-Reverse-Vowels-of-a-String/) |
 | [443. String Compression](./443-String-Compression/) |
 | [605. Can Place Flowers](./605-Can-Place-Flowers/) |
+| [735. Asteroid Collision](./735-Asteroid-Collision/) |
 | [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
 | [1137. N th Tribonacci Number](./1137-N-th-Tribonacci-Number/) |
 | [1260. Shift 2D Grid](./1260-Shift-2D-Grid/) |
