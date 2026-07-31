@@ -286,6 +286,7 @@ Solutions organized by the approach used to solve each problem.
 | [392. Is Subsequence](./392-Is-Subsequence/) |
 | [977. Squares of a Sorted Array](./977-Squares-of-a-Sorted-Array/) |
 | [1768. Merge Strings Alternately](./1768-Merge-Strings-Alternately/) |
+| [2095. Delete the Middle Node of a Linked List](./2095-Delete-the-Middle-Node-of-a-Linked-List/) |
 
 ---
 
