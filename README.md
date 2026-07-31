@@ -57,6 +57,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Depth-First Search -->
+| **Depth-First Search** |
+|---|
+| [872. Leaf-Similar Trees](./872-Leaf-Similar-Trees/) |
+
+---
+
 <!-- leetlens:section=Direct Calculation -->
 | **Direct Calculation** |
 |---|
