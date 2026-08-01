@@ -263,6 +263,7 @@ Solutions organized by the approach used to solve each problem.
 | **Stack** |
 |---|
 | [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/) |
+| [394. Decode String](./394-Decode-String/) |
 
 ---
 
