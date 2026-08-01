@@ -216,6 +216,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Queue-based Simulation -->
+| **Queue-based Simulation** |
+|---|
+| [649. Dota2 Senate](./649-Dota2-Senate/) |
+
+---
+
 <!-- leetlens:section=Sequential Digit Generation -->
 | **Sequential Digit Generation** |
 |---|
@@ -263,7 +270,6 @@ Solutions organized by the approach used to solve each problem.
 | **Stack** |
 |---|
 | [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/) |
-| [394. Decode String](./394-Decode-String/) |
 
 ---
 
@@ -300,6 +306,7 @@ Solutions organized by the approach used to solve each problem.
 | [264. Ugly Number II](./264-Ugly-Number-II/) |
 | [283. Move Zeroes](./283-Move-Zeroes/) |
 | [345. Reverse Vowels of a String](./345-Reverse-Vowels-of-a-String/) |
+| [394. Decode String](./394-Decode-String/) |
 | [443. String Compression](./443-String-Compression/) |
 | [605. Can Place Flowers](./605-Can-Place-Flowers/) |
 | [735. Asteroid Collision](./735-Asteroid-Collision/) |
