@@ -57,13 +57,6 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Depth-First Search -->
-| **Depth-First Search** |
-|---|
-| [872. Leaf-Similar Trees](./872-Leaf-Similar-Trees/) |
-
----
-
 <!-- leetlens:section=Direct Calculation -->
 | **Direct Calculation** |
 |---|
@@ -91,6 +84,7 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [72. Edit Distance](./72-Edit-Distance/) |
 | [120. Triangle](./120-Triangle/) |
+| [486. Predict the Winner](./486-Predict-the-Winner/) |
 | [509. Fibonacci Number](./509-Fibonacci-Number/) |
 | [516. Longest Palindromic Subsequence](./516-Longest-Palindromic-Subsequence/) |
 | [746. Min Cost Climbing Stairs](./746-Min-Cost-Climbing-Stairs/) |
@@ -308,6 +302,7 @@ Solutions organized by the approach used to solve each problem.
 | [443. String Compression](./443-String-Compression/) |
 | [605. Can Place Flowers](./605-Can-Place-Flowers/) |
 | [735. Asteroid Collision](./735-Asteroid-Collision/) |
+| [872. Leaf Similar Trees](./872-Leaf-Similar-Trees/) |
 | [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
 | [1137. N th Tribonacci Number](./1137-N-th-Tribonacci-Number/) |
 | [1260. Shift 2D Grid](./1260-Shift-2D-Grid/) |
