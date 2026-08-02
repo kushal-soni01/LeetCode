@@ -82,6 +82,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Dynamic Programming -->
 | **Dynamic Programming** |
 |---|
+| [62. Unique Paths](./62-Unique-Paths/) |
 | [72. Edit Distance](./72-Edit-Distance/) |
 | [120. Triangle](./120-Triangle/) |
 | [486. Predict the Winner](./486-Predict-the-Winner/) |
