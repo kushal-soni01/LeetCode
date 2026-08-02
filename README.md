@@ -178,6 +178,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Iterative Prefix Validation -->
+| **Iterative Prefix Validation** |
+|---|
+| [4006. Count Valid Prefixes](./4006-Count-Valid-Prefixes/) |
+
+---
+
 <!-- leetlens:section=Linear Scan With Conditional Checks -->
 | **Linear Scan With Conditional Checks** |
 |---|
@@ -213,13 +220,6 @@ Solutions organized by the approach used to solve each problem.
 | [1732. Find the Highest Altitude](./1732-Find-the-Highest-Altitude/) |
 | [1991. Find the Middle Index in Array](./1991-Find-the-Middle-Index-in-Array/) |
 | [3737. Count Subarrays With Majority Element I](./3737-Count-Subarrays-With-Majority-Element-I/) |
-
----
-
-<!-- leetlens:section=Queue-based Simulation -->
-| **Queue-based Simulation** |
-|---|
-| [649. Dota2 Senate](./649-Dota2-Senate/) |
 
 ---
 
@@ -309,6 +309,7 @@ Solutions organized by the approach used to solve each problem.
 | [394. Decode String](./394-Decode-String/) |
 | [443. String Compression](./443-String-Compression/) |
 | [605. Can Place Flowers](./605-Can-Place-Flowers/) |
+| [649. Dota2 Senate](./649-Dota2-Senate/) |
 | [735. Asteroid Collision](./735-Asteroid-Collision/) |
 | [872. Leaf Similar Trees](./872-Leaf-Similar-Trees/) |
 | [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
