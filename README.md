@@ -41,6 +41,7 @@ Solutions organized by the approach used to solve each problem.
 | [1967. Number of Strings That Appear as Substrings in Word](./1967-Number-of-Strings-That-Appear-as-Substrings-in-Word/) |
 | [2373. Largest Local Values in a Matrix](./2373-Largest-Local-Values-in-a-Matrix/) |
 | [4010. Maximize Pair Strength Using GCD](./4010-Maximize-Pair-Strength-Using-GCD/) |
+| [4011. Count Subarrays With Even Odd Ratio I](./4011-Count-Subarrays-With-Even-Odd-Ratio-I/) |
 
 ---
 
