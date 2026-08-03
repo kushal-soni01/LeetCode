@@ -59,13 +59,6 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Depth-First Search -->
-| **Depth-First Search** |
-|---|
-| [1448. Count Good Nodes in Binary Tree](./1448-Count-Good-Nodes-in-Binary-Tree/) |
-
----
-
 <!-- leetlens:section=Direct Calculation -->
 | **Direct Calculation** |
 |---|
@@ -305,6 +298,7 @@ Solutions organized by the approach used to solve each problem.
 | [977. Squares of a Sorted Array](./977-Squares-of-a-Sorted-Array/) |
 | [1768. Merge Strings Alternately](./1768-Merge-Strings-Alternately/) |
 | [2095. Delete the Middle Node of a Linked List](./2095-Delete-the-Middle-Node-of-a-Linked-List/) |
+| [2130. Maximum Twin Sum of a Linked List](./2130-Maximum-Twin-Sum-of-a-Linked-List/) |
 
 ---
 
@@ -327,6 +321,7 @@ Solutions organized by the approach used to solve each problem.
 | [1260. Shift 2D Grid](./1260-Shift-2D-Grid/) |
 | [1312. Minimum Insertion Steps to Make a String Palindrome](./1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/) |
 | [1431. Kids With the Greatest Number of Candies](./1431-Kids-With-the-Greatest-Number-of-Candies/) |
+| [1448. Count Good Nodes in Binary Tree](./1448-Count-Good-Nodes-in-Binary-Tree/) |
 | [1464. Maximum Product of Two Elements in an Array](./1464-Maximum-Product-of-Two-Elements-in-an-Array/) |
 | [1679. Max Number of K Sum Pairs](./1679-Max-Number-of-K-Sum-Pairs/) |
 | [1979. Find Greatest Common Divisor of Array](./1979-Find-Greatest-Common-Divisor-of-Array/) |
