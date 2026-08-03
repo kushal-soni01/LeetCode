@@ -16,6 +16,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Binary Search -->
 | **Binary Search** |
 |---|
+| [700. Search in a Binary Search Tree](./700-Search-in-a-Binary-Search-Tree/) |
 | [3312. Sorted GCD Pair Queries](./3312-Sorted-GCD-Pair-Queries/) |
 
 ---
@@ -178,6 +179,13 @@ Solutions organized by the approach used to solve each problem.
 | **Iterate Through Digits To Find The Two Largest Values** |
 |---|
 | [3536. Maximum Product of Two Digits](./3536-Maximum-Product-of-Two-Digits/) |
+
+---
+
+<!-- leetlens:section=Iterative Linked List Reversal -->
+| **Iterative Linked List Reversal** |
+|---|
+| [206. Reverse Linked List](./206-Reverse-Linked-List/) |
 
 ---
 
