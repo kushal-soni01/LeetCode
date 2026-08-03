@@ -59,6 +59,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Depth-First Search -->
+| **Depth-First Search** |
+|---|
+| [1448. Count Good Nodes in Binary Tree](./1448-Count-Good-Nodes-in-Binary-Tree/) |
+
+---
+
 <!-- leetlens:section=Direct Calculation -->
 | **Direct Calculation** |
 |---|
