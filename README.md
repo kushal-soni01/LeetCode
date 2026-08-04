@@ -115,6 +115,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Hash Counting -->
+| **Hash Counting** |
+|---|
+| [3731. Find Missing Elements](./3731-Find-Missing-Elements/) |
+
+---
+
 <!-- leetlens:section=Hash Map -->
 | **Hash Map** |
 |---|
