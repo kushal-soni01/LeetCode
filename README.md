@@ -35,6 +35,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Breadth-First Search -->
+| **Breadth-First Search** |
+|---|
+| [199. Binary Tree Right Side View](./199-Binary-Tree-Right-Side-View/) |
+
+---
+
 <!-- leetlens:section=Brute Force -->
 | **Brute Force** |
 |---|
