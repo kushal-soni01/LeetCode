@@ -38,7 +38,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Breadth-First Search -->
 | **Breadth-First Search** |
 |---|
-| [199. Binary Tree Right Side View](./199-Binary-Tree-Right-Side-View/) |
+| [1161. Maximum Level Sum of a Binary Tree](./1161-Maximum-Level-Sum-of-a-Binary-Tree/) |
 
 ---
 
@@ -329,6 +329,7 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [94. Binary Tree Inorder Traversal](./94-Binary-Tree-Inorder-Traversal/) |
 | [124. Binary Tree Maximum Path Sum](./124-Binary-Tree-Maximum-Path-Sum/) |
+| [199. Binary Tree Right Side View](./199-Binary-Tree-Right-Side-View/) |
 | [264. Ugly Number II](./264-Ugly-Number-II/) |
 | [283. Move Zeroes](./283-Move-Zeroes/) |
 | [345. Reverse Vowels of a String](./345-Reverse-Vowels-of-a-String/) |
