@@ -67,6 +67,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Depth-First Search -->
+| **Depth-First Search** |
+|---|
+| [1372. Longest ZigZag Path in a Binary Tree](./1372-Longest-ZigZag-Path-in-a-Binary-Tree/) |
+
+---
+
 <!-- leetlens:section=Direct Calculation -->
 | **Direct Calculation** |
 |---|
