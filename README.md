@@ -35,13 +35,6 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Breadth-First Search -->
-| **Breadth-First Search** |
-|---|
-| [1161. Maximum Level Sum of a Binary Tree](./1161-Maximum-Level-Sum-of-a-Binary-Tree/) |
-
----
-
 <!-- leetlens:section=Brute Force -->
 | **Brute Force** |
 |---|
@@ -64,13 +57,6 @@ Solutions organized by the approach used to solve each problem.
 | **Counting Sort** |
 |---|
 | [75. Sort Colors](./75-Sort-Colors/) |
-
----
-
-<!-- leetlens:section=Depth-First Search -->
-| **Depth-First Search** |
-|---|
-| [1372. Longest ZigZag Path in a Binary Tree](./1372-Longest-ZigZag-Path-in-a-Binary-Tree/) |
 
 ---
 
@@ -126,6 +112,7 @@ Solutions organized by the approach used to solve each problem.
 | [3014. Minimum Number of Pushes to Type Word I](./3014-Minimum-Number-of-Pushes-to-Type-Word-I/) |
 | [3016. Minimum Number of Pushes to Type Word II](./3016-Minimum-Number-of-Pushes-to-Type-Word-II/) |
 | [3974. Maximum Total Sum of K Selected Elements](./3974-Maximum-Total-Sum-of-K-Selected-Elements/) |
+| [4014. Minimum Total Price After Applying Discounts](./4014-Minimum-Total-Price-After-Applying-Discounts/) |
 
 ---
 
@@ -348,8 +335,10 @@ Solutions organized by the approach used to solve each problem.
 | [872. Leaf Similar Trees](./872-Leaf-Similar-Trees/) |
 | [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
 | [1137. N th Tribonacci Number](./1137-N-th-Tribonacci-Number/) |
+| [1161. Maximum Level Sum of a Binary Tree](./1161-Maximum-Level-Sum-of-a-Binary-Tree/) |
 | [1260. Shift 2D Grid](./1260-Shift-2D-Grid/) |
 | [1312. Minimum Insertion Steps to Make a String Palindrome](./1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/) |
+| [1372. Longest ZigZag Path in a Binary Tree](./1372-Longest-ZigZag-Path-in-a-Binary-Tree/) |
 | [1431. Kids With the Greatest Number of Candies](./1431-Kids-With-the-Greatest-Number-of-Candies/) |
 | [1448. Count Good Nodes in Binary Tree](./1448-Count-Good-Nodes-in-Binary-Tree/) |
 | [1464. Maximum Product of Two Elements in an Array](./1464-Maximum-Product-of-Two-Elements-in-an-Array/) |
