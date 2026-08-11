@@ -238,6 +238,7 @@ Solutions organized by the approach used to solve each problem.
 | [724. Find Pivot Index](./724-Find-Pivot-Index/) |
 | [1732. Find the Highest Altitude](./1732-Find-the-Highest-Altitude/) |
 | [1991. Find the Middle Index in Array](./1991-Find-the-Middle-Index-in-Array/) |
+| [2996. Smallest Missing Integer Greater Than Sequential Prefix Sum](./2996-Smallest-Missing-Integer-Greater-Than-Sequential-Prefix-Sum/) |
 | [3737. Count Subarrays With Majority Element I](./3737-Count-Subarrays-With-Majority-Element-I/) |
 
 ---
