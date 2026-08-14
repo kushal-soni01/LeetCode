@@ -16,6 +16,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Binary Search -->
 | **Binary Search** |
 |---|
+| [162. Find Peak Element](./162-Find-Peak-Element/) |
 | [374. Guess Number Higher or Lower](./374-Guess-Number-Higher-or-Lower/) |
 | [700. Search in a Binary Search Tree](./700-Search-in-a-Binary-Search-Tree/) |
 | [2300. Successful Pairs of Spells and Potions](./2300-Successful-Pairs-of-Spells-and-Potions/) |
