@@ -274,6 +274,7 @@ Solutions organized by the approach used to solve each problem.
 | [1358. Number of Substrings Containing All Three Characters](./1358-Number-of-Substrings-Containing-All-Three-Characters/) |
 | [1456. Maximum Number of Vowels in a Substring of Given Length](./1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/) |
 | [1493. Longest Subarray of 1s After Deleting One Element](./1493-Longest-Subarray-of-1s-After-Deleting-One-Element/) |
+| [3090. Maximum Length Substring With Two Occurrences](./3090-Maximum-Length-Substring-With-Two-Occurrences/) |
 | [3318. Find X Sum of All K Long Subarrays I](./3318-Find-X-Sum-of-All-K-Long-Subarrays-I/) |
 
 ---
