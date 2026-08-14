@@ -18,6 +18,7 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [374. Guess Number Higher or Lower](./374-Guess-Number-Higher-or-Lower/) |
 | [700. Search in a Binary Search Tree](./700-Search-in-a-Binary-Search-Tree/) |
+| [2300. Successful Pairs of Spells and Potions](./2300-Successful-Pairs-of-Spells-and-Potions/) |
 | [3312. Sorted GCD Pair Queries](./3312-Sorted-GCD-Pair-Queries/) |
 
 ---
