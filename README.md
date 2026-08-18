@@ -228,6 +228,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Naïve Frequency-based Heuristic -->
+| **Naïve Frequency-based Heuristic** |
+|---|
+| [3471. Find the Largest Almost Missing Integer](./3471-Find-the-Largest-Almost-Missing-Integer/) |
+
+---
+
 <!-- leetlens:section=Prefix And Suffix Product Arrays -->
 | **Prefix And Suffix Product Arrays** |
 |---|
