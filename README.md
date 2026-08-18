@@ -308,6 +308,7 @@ Solutions organized by the approach used to solve each problem.
 | **Stack** |
 |---|
 | [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/) |
+| [841. Keys and Rooms](./841-Keys-and-Rooms/) |
 
 ---
 
