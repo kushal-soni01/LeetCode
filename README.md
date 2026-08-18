@@ -253,6 +253,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Recursive BST Delete Using Inorder Successor/predecessor -->
+| **Recursive BST Delete Using Inorder Successor/predecessor** |
+|---|
+| [450. Delete Node in a BST](./450-Delete-Node-in-a-BST/) |
+
+---
+
 <!-- leetlens:section=Sequential Digit Generation -->
 | **Sequential Digit Generation** |
 |---|
