@@ -19,6 +19,7 @@ Solutions organized by the approach used to solve each problem.
 | [162. Find Peak Element](./162-Find-Peak-Element/) |
 | [374. Guess Number Higher or Lower](./374-Guess-Number-Higher-or-Lower/) |
 | [700. Search in a Binary Search Tree](./700-Search-in-a-Binary-Search-Tree/) |
+| [875. Koko Eating Bananas](./875-Koko-Eating-Bananas/) |
 | [2300. Successful Pairs of Spells and Potions](./2300-Successful-Pairs-of-Spells-and-Potions/) |
 | [3312. Sorted GCD Pair Queries](./3312-Sorted-GCD-Pair-Queries/) |
 
@@ -228,13 +229,6 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Naïve Frequency-based Heuristic -->
-| **Naïve Frequency-based Heuristic** |
-|---|
-| [3471. Find the Largest Almost Missing Integer](./3471-Find-the-Largest-Almost-Missing-Integer/) |
-
----
-
 <!-- leetlens:section=Prefix And Suffix Product Arrays -->
 | **Prefix And Suffix Product Arrays** |
 |---|
@@ -308,7 +302,6 @@ Solutions organized by the approach used to solve each problem.
 | **Stack** |
 |---|
 | [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/) |
-| [841. Keys and Rooms](./841-Keys-and-Rooms/) |
 
 ---
 
@@ -352,6 +345,7 @@ Solutions organized by the approach used to solve each problem.
 | [605. Can Place Flowers](./605-Can-Place-Flowers/) |
 | [649. Dota2 Senate](./649-Dota2-Senate/) |
 | [735. Asteroid Collision](./735-Asteroid-Collision/) |
+| [841. Keys and Rooms](./841-Keys-and-Rooms/) |
 | [872. Leaf Similar Trees](./872-Leaf-Similar-Trees/) |
 | [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
 | [1137. N th Tribonacci Number](./1137-N-th-Tribonacci-Number/) |
@@ -367,6 +361,7 @@ Solutions organized by the approach used to solve each problem.
 | [2215. Find the Difference of Two Arrays](./2215-Find-the-Difference-of-Two-Arrays/) |
 | [2390. Removing Stars From a String](./2390-Removing-Stars-From-a-String/) |
 | [2558. Take Gifts From the Richest Pile](./2558-Take-Gifts-From-the-Richest-Pile/) |
+| [3471. Find the Largest Almost Missing Integer](./3471-Find-the-Largest-Almost-Missing-Integer/) |
 | [3514. Number of Unique XOR Triplets II](./3514-Number-of-Unique-XOR-Triplets-II/) |
 | [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
 | [3867. Sum of GCD of Formed Pairs](./3867-Sum-of-GCD-of-Formed-Pairs/) |
