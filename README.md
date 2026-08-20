@@ -222,6 +222,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Linear Scan With Two Dynamic Lists -->
+| **Linear Scan With Two Dynamic Lists** |
+|---|
+| [3069. Distribute Elements Into Two Arrays I](./3069-Distribute-Elements-Into-Two-Arrays-I/) |
+
+---
+
 <!-- leetlens:section=Modified Prefix Product Calculation -->
 | **Modified Prefix Product Calculation** |
 |---|
