@@ -187,6 +187,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Iterate Over Digits To Compute Sum And Product -->
+| **Iterate Over Digits To Compute Sum And Product** |
+|---|
+| [3622. Check Divisibility by Digit Sum and Product](./3622-Check-Divisibility-by-Digit-Sum-and-Product/) |
+
+---
+
 <!-- leetlens:section=Iterate Through Digits To Find The Two Largest Values -->
 | **Iterate Through Digits To Find The Two Largest Values** |
 |---|
