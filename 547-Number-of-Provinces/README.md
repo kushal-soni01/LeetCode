@@ -2,7 +2,7 @@
 <!-- leetlens:approach=Depth-First Search (DFS) traversal -->
 <!-- leetlens:difficulty=Medium -->
 <!-- leetlens:language=java -->
-<!-- leetlens:pushedAt=1787481180419 -->
+<!-- leetlens:pushedAt=1787481476324 -->
 
 # [547. Number of Provinces](https://leetcode.com/problems/Number-of-Provinces/)
 
@@ -39,7 +39,7 @@ Output: [[1,0,0],[0,1,0],[0,0,1]]
 
 | Field | Value |
 |---|---|
-| Approach | DFS traversal |
+| Approach | DFS/BFS/Union-Find |
 | Time Complexity | O(n^2) |
 | Space Complexity | O(n) |
 
