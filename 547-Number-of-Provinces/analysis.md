@@ -4,7 +4,7 @@
 
 | Field | Value |
 |---|---|
-| **Approach Used** | Iterative Depth-First Search using an explicit stack |
+| **Approach Used** | Depth-First Search (DFS) traversal |
 | **Time Complexity** | `O(n^2)` |
 | **Space Complexity** | `O(n)` |
 | **Language** | java |
@@ -20,7 +20,7 @@ This solution achieves the theoretical optimum for this problem.
 | Time | `O(n^2)` |
 | Space | `O(n)` |
 
-Reading the n×n matrix already costs Θ(n^2) and a visited array of size n is sufficient for optimal linear extra memory.
+Reading the n×n matrix requires Θ(n^2) time and a visited array of size n gives Θ(n) extra space.
 
 
 ---
@@ -29,17 +29,17 @@ Reading the n×n matrix already costs Θ(n^2) and a visited array of size n is s
 
 **Score:** [****-] (4/5)
 
-Variable names and control flow are clear; using a Stack makes the DFS explicit and easy to follow.
+Clear variable names and straightforward recursion make the code easy to follow.
 
 ---
 
 ## Interviewer's Perspective
 
 **Verdict:**
-The candidate implemented a correct iterative DFS that visits every city exactly once and counts provinces accurately. The solution runs in optimal O(n^2) time and O(n) space for the given adjacency‑matrix input. Code is readable and handles edge cases such as isolated cities without extra complexity.
+The candidate chose a classic DFS approach that correctly counts connected components and matches the optimal O(n^2) time and O(n) space bounds. The implementation is concise and readable, though it relies on recursion which could hit stack limits for larger inputs. Overall the solution is appropriate for the given constraints.
 
 **Likely Follow-Up Question:**
-> How would you modify the solution to use Union‑Find instead of DFS, and what trade‑offs would that introduce?
+> How would you modify the solution to avoid potential stack overflow for larger graphs, and what trade‑offs would that entail?
 
 ---
 <p align="center">
