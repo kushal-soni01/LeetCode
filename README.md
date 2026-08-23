@@ -39,6 +39,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Breadth-First Search -->
+| **Breadth-First Search** |
+|---|
+| [1926. Nearest Exit from Entrance in Maze](./1926-Nearest-Exit-from-Entrance-in-Maze/) |
+
+---
+
 <!-- leetlens:section=Brute Force -->
 | **Brute Force** |
 |---|
@@ -61,13 +68,6 @@ Solutions organized by the approach used to solve each problem.
 | **Counting Sort** |
 |---|
 | [75. Sort Colors](./75-Sort-Colors/) |
-
----
-
-<!-- leetlens:section=Depth-First Search -->
-| **Depth-First Search** |
-|---|
-| [547. Number of Provinces](./547-Number-of-Provinces/) |
 
 ---
 
@@ -363,6 +363,7 @@ Solutions organized by the approach used to solve each problem.
 | [345. Reverse Vowels of a String](./345-Reverse-Vowels-of-a-String/) |
 | [394. Decode String](./394-Decode-String/) |
 | [443. String Compression](./443-String-Compression/) |
+| [547. Number of Provinces](./547-Number-of-Provinces/) |
 | [605. Can Place Flowers](./605-Can-Place-Flowers/) |
 | [649. Dota2 Senate](./649-Dota2-Senate/) |
 | [735. Asteroid Collision](./735-Asteroid-Collision/) |
