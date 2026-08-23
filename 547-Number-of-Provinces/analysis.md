@@ -29,17 +29,17 @@ Reading the n×n matrix requires Θ(n^2) time and a visited array of size n give
 
 **Score:** [****-] (4/5)
 
-Clear variable names and straightforward recursion make the code easy to follow.
+Variable names and structure are clear, recursion is straightforward.
 
 ---
 
 ## Interviewer's Perspective
 
 **Verdict:**
-The candidate chose a classic DFS approach that correctly counts connected components and matches the optimal O(n^2) time and O(n) space bounds. The implementation is concise and readable, though it relies on recursion which could hit stack limits for larger inputs. Overall the solution is appropriate for the given constraints.
+The candidate correctly identified the problem as counting connected components and implemented a standard DFS solution that runs in optimal O(n^2) time and O(n) space. The code is clean and easy to follow, though recursion depth could be a concern for larger inputs. Overall the solution meets the problem requirements.
 
 **Likely Follow-Up Question:**
-> How would you modify the solution to avoid potential stack overflow for larger graphs, and what trade‑offs would that entail?
+> How would your solution behave if n were 10,000; would the recursive DFS risk a stack overflow, and how could you modify it to avoid that?
 
 ---
 <p align="center">
