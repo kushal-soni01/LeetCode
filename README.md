@@ -64,6 +64,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Depth-First Search -->
+| **Depth-First Search** |
+|---|
+| [547. Number of Provinces](./547-Number-of-Provinces/) |
+
+---
+
 <!-- leetlens:section=Direct Calculation -->
 | **Direct Calculation** |
 |---|
@@ -316,7 +323,6 @@ Solutions organized by the approach used to solve each problem.
 | **Stack** |
 |---|
 | [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/) |
-| [547. Number of Provinces](./547-Number-of-Provinces/) |
 
 ---
 
