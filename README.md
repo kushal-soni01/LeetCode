@@ -39,10 +39,10 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Breadth-First Search -->
-| **Breadth-First Search** |
+<!-- leetlens:section=Boolean Array Marking Presence -->
+| **Boolean Array Marking Presence** |
 |---|
-| [1926. Nearest Exit from Entrance in Maze](./1926-Nearest-Exit-from-Entrance-in-Maze/) |
+| [3718. Smallest Missing Multiple of K](./3718-Smallest-Missing-Multiple-of-K/) |
 
 ---
 
@@ -379,6 +379,7 @@ Solutions organized by the approach used to solve each problem.
 | [1448. Count Good Nodes in Binary Tree](./1448-Count-Good-Nodes-in-Binary-Tree/) |
 | [1464. Maximum Product of Two Elements in an Array](./1464-Maximum-Product-of-Two-Elements-in-an-Array/) |
 | [1679. Max Number of K Sum Pairs](./1679-Max-Number-of-K-Sum-Pairs/) |
+| [1926. Nearest Exit from Entrance in Maze](./1926-Nearest-Exit-from-Entrance-in-Maze/) |
 | [1979. Find Greatest Common Divisor of Array](./1979-Find-Greatest-Common-Divisor-of-Array/) |
 | [2215. Find the Difference of Two Arrays](./2215-Find-the-Difference-of-Two-Arrays/) |
 | [2390. Removing Stars From a String](./2390-Removing-Stars-From-a-String/) |
