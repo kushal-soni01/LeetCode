@@ -222,6 +222,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Linear Scan To Locate Min And Max Indices And Compute Minimal Deletions -->
+| **Linear Scan To Locate Min And Max Indices And Compute Minimal Deletions** |
+|---|
+| [2091. Removing Minimum and Maximum From Array](./2091-Removing-Minimum-and-Maximum-From-Array/) |
+
+---
+
 <!-- leetlens:section=Linear Scan With Conditional Checks -->
 | **Linear Scan With Conditional Checks** |
 |---|
