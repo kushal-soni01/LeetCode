@@ -109,6 +109,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Factorial Number System With List Removal (direct Construction) -->
+| **Factorial Number System With List Removal (direct Construction)** |
+|---|
+| [60. Permutation Sequence](./60-Permutation-Sequence/) |
+
+---
+
 <!-- leetlens:section=Greedy -->
 | **Greedy** |
 |---|
