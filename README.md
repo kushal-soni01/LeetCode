@@ -97,6 +97,7 @@ Solutions organized by the approach used to solve each problem.
 | **Prefix Sum** |
 |---|
 | [303. Range Sum Query - Immutable](./303-Range-Sum-Query-Immutable/) |
+| [1588. Sum of All Odd Length Subarrays](./1588-Sum-of-All-Odd-Length-Subarrays/) |
 | [1732. Find the Highest Altitude](./1732-Find-the-Highest-Altitude/) |
 | [1991. Find the Middle Index in Array](./1991-Find-the-Middle-Index-in-Array/) |
 
