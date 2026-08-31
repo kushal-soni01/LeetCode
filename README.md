@@ -5,10 +5,6 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Backtracking -->
 | **Backtracking** |
 |---|
-| [40. Combination Sum II](./40-Combination-Sum-II/) |
-| [51. N Queens](./51-N-Queens/) |
-| [78. Subsets](./78-Subsets/) |
-| [90. Subsets II](./90-Subsets-II/) |
 | [2044. Count Number of Maximum Bitwise OR Subsets](./2044-Count-Number-of-Maximum-Bitwise-OR-Subsets/) |
 
 ---
@@ -17,11 +13,6 @@ Solutions organized by the approach used to solve each problem.
 | **Binary Search** |
 |---|
 | [162. Find Peak Element](./162-Find-Peak-Element/) |
-| [374. Guess Number Higher or Lower](./374-Guess-Number-Higher-or-Lower/) |
-| [700. Search in a Binary Search Tree](./700-Search-in-a-Binary-Search-Tree/) |
-| [875. Koko Eating Bananas](./875-Koko-Eating-Bananas/) |
-| [2300. Successful Pairs of Spells and Potions](./2300-Successful-Pairs-of-Spells-and-Potions/) |
-| [3312. Sorted GCD Pair Queries](./3312-Sorted-GCD-Pair-Queries/) |
 
 ---
 
@@ -32,87 +23,19 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Block Iteration -->
-| **Block Iteration** |
-|---|
-| [3499. Maximize Active Section with Trade I](./3499-Maximize-Active-Section-with-Trade-I/) |
-
----
-
-<!-- leetlens:section=Boolean Array Marking Presence -->
-| **Boolean Array Marking Presence** |
-|---|
-| [3718. Smallest Missing Multiple of K](./3718-Smallest-Missing-Multiple-of-K/) |
-
----
-
 <!-- leetlens:section=Brute Force -->
 | **Brute Force** |
 |---|
 | [1763. Longest Nice Substring](./1763-Longest-Nice-Substring/) |
 | [1967. Number of Strings That Appear as Substrings in Word](./1967-Number-of-Strings-That-Appear-as-Substrings-in-Word/) |
-| [2373. Largest Local Values in a Matrix](./2373-Largest-Local-Values-in-a-Matrix/) |
-| [4010. Maximize Pair Strength Using GCD](./4010-Maximize-Pair-Strength-Using-GCD/) |
-| [4011. Count Subarrays With Even Odd Ratio I](./4011-Count-Subarrays-With-Even-Odd-Ratio-I/) |
-
----
-
-<!-- leetlens:section=Counting Frequency And Constructing Palindrome -->
-| **Counting Frequency And Constructing Palindrome** |
-|---|
-| [3517. Smallest Palindromic Rearrangement I](./3517-Smallest-Palindromic-Rearrangement-I/) |
-
----
-
-<!-- leetlens:section=Counting Sort -->
-| **Counting Sort** |
-|---|
-| [75. Sort Colors](./75-Sort-Colors/) |
-
----
-
-<!-- leetlens:section=Direct Calculation -->
-| **Direct Calculation** |
-|---|
-| [3986. Number of Elapsed Seconds Between Two Times](./3986-Number-of-Elapsed-Seconds-Between-Two-Times/) |
-
----
-
-<!-- leetlens:section=Direct Formula Computation With Euclidean GCD -->
-| **Direct Formula Computation With Euclidean GCD** |
-|---|
-| [3658. GCD of Odd and Even Sums](./3658-GCD-of-Odd-and-Even-Sums/) |
-
----
-
-<!-- leetlens:section=Divide and Conquer -->
-| **Divide and Conquer** |
-|---|
-| [263. Ugly Number](./263-Ugly-Number/) |
-| [761. Special Binary String](./761-Special-Binary-String/) |
 
 ---
 
 <!-- leetlens:section=Dynamic Programming -->
 | **Dynamic Programming** |
 |---|
-| [62. Unique Paths](./62-Unique-Paths/) |
-| [72. Edit Distance](./72-Edit-Distance/) |
 | [120. Triangle](./120-Triangle/) |
-| [486. Predict the Winner](./486-Predict-the-Winner/) |
-| [509. Fibonacci Number](./509-Fibonacci-Number/) |
-| [516. Longest Palindromic Subsequence](./516-Longest-Palindromic-Subsequence/) |
-| [746. Min Cost Climbing Stairs](./746-Min-Cost-Climbing-Stairs/) |
-| [877. Stone Game](./877-Stone-Game/) |
 | [1092. Shortest Common Supersequence](./1092-Shortest-Common-Supersequence/) |
-| [3987. Minimum Total Cost to Process All Elements](./3987-Minimum-Total-Cost-to-Process-All-Elements/) |
-
----
-
-<!-- leetlens:section=Factorial Number System With List Removal (direct Construction) -->
-| **Factorial Number System With List Removal (direct Construction)** |
-|---|
-| [60. Permutation Sequence](./60-Permutation-Sequence/) |
 
 ---
 
@@ -120,35 +43,17 @@ Solutions organized by the approach used to solve each problem.
 | **Greedy** |
 |---|
 | [122. Best Time to Buy and Sell Stock II](./122-Best-Time-to-Buy-and-Sell-Stock-II/) |
-| [316. Remove Duplicate Letters](./316-Remove-Duplicate-Letters/) |
-| [334. Increasing Triplet Subsequence](./334-Increasing-Triplet-Subsequence/) |
 | [1081. Smallest Subsequence of Distinct Characters](./1081-Smallest-Subsequence-of-Distinct-Characters/) |
 | [1328. Break a Palindrome](./1328-Break-a-Palindrome/) |
 | [1488. Avoid Flood in The City](./1488-Avoid-Flood-in-The-City/) |
-| [2144. Minimum Cost of Buying Candies With Discount](./2144-Minimum-Cost-of-Buying-Candies-With-Discount/) |
-| [2335. Minimum Amount of Time to Fill Cups](./2335-Minimum-Amount-of-Time-to-Fill-Cups/) |
-| [3014. Minimum Number of Pushes to Type Word I](./3014-Minimum-Number-of-Pushes-to-Type-Word-I/) |
-| [3016. Minimum Number of Pushes to Type Word II](./3016-Minimum-Number-of-Pushes-to-Type-Word-II/) |
-| [3974. Maximum Total Sum of K Selected Elements](./3974-Maximum-Total-Sum-of-K-Selected-Elements/) |
-| [4014. Minimum Total Price After Applying Discounts](./4014-Minimum-Total-Price-After-Applying-Discounts/) |
-
----
-
-<!-- leetlens:section=Hash Counting -->
-| **Hash Counting** |
-|---|
-| [3731. Find Missing Elements](./3731-Find-Missing-Elements/) |
 
 ---
 
 <!-- leetlens:section=Hash Map -->
 | **Hash Map** |
 |---|
-| [347. Top K Frequent Elements](./347-Top-K-Frequent-Elements/) |
-| [594. Longest Harmonious Subsequence](./594-Longest-Harmonious-Subsequence/) |
 | [1207. Unique Number of Occurrences](./1207-Unique-Number-of-Occurrences/) |
 | [1394. Find Lucky Integer in an Array](./1394-Find-Lucky-Integer-in-an-Array/) |
-| [2352. Equal Row and Column Pairs](./2352-Equal-Row-and-Column-Pairs/) |
 
 ---
 
@@ -159,38 +64,11 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Hash Set Solution -->
-| **Hash Set Solution** |
-|---|
-| [2357. Make Array Zero by Subtracting Equal Amounts](./2357-Make-Array-Zero-by-Subtracting-Equal-Amounts/) |
-
----
-
-<!-- leetlens:section=HashSet To Track Unique Characters -->
-| **HashSet To Track Unique Characters** |
-|---|
-| [3760. Maximum Substrings With Distinct Start](./3760-Maximum-Substrings-With-Distinct-Start/) |
-
----
-
 <!-- leetlens:section=Heap / Priority Queue -->
 | **Heap / Priority Queue** |
 |---|
-| [215. Kth Largest Element in an Array](./215-Kth-Largest-Element-in-an-Array/) |
-| [378. Kth Smallest Element in a Sorted Matrix](./378-Kth-Smallest-Element-in-a-Sorted-Matrix/) |
-| [506. Relative Ranks](./506-Relative-Ranks/) |
-| [703. Kth Largest Element in a Stream](./703-Kth-Largest-Element-in-a-Stream/) |
 | [1337. The K Weakest Rows in a Matrix](./1337-The-K-Weakest-Rows-in-a-Matrix/) |
 | [2099. Find Subsequence of Length K With the Largest Sum](./2099-Find-Subsequence-of-Length-K-With-the-Largest-Sum/) |
-| [2231. Largest Number After Digit Swaps by Parity](./2231-Largest-Number-After-Digit-Swaps-by-Parity/) |
-| [2336. Smallest Number in Infinite Set](./2336-Smallest-Number-in-Infinite-Set/) |
-
----
-
-<!-- leetlens:section=Incremental Array Update -->
-| **Incremental Array Update** |
-|---|
-| [66. Plus One](./66-Plus-One/) |
 
 ---
 
@@ -201,31 +79,10 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Iterate Over Digits To Compute Sum And Product -->
-| **Iterate Over Digits To Compute Sum And Product** |
-|---|
-| [3622. Check Divisibility by Digit Sum and Product](./3622-Check-Divisibility-by-Digit-Sum-and-Product/) |
-
----
-
-<!-- leetlens:section=Iterate Through Digits To Find The Two Largest Values -->
-| **Iterate Through Digits To Find The Two Largest Values** |
-|---|
-| [3536. Maximum Product of Two Digits](./3536-Maximum-Product-of-Two-Digits/) |
-
----
-
 <!-- leetlens:section=Iterative Linked List Reversal -->
 | **Iterative Linked List Reversal** |
 |---|
 | [206. Reverse Linked List](./206-Reverse-Linked-List/) |
-
----
-
-<!-- leetlens:section=Iterative Prefix Validation -->
-| **Iterative Prefix Validation** |
-|---|
-| [4006. Count Valid Prefixes](./4006-Count-Valid-Prefixes/) |
 
 ---
 
@@ -236,56 +93,12 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Linear Scan With Conditional Checks -->
-| **Linear Scan With Conditional Checks** |
-|---|
-| [8. String to Integer atoi](./8-String-to-Integer-atoi/) |
-
----
-
-<!-- leetlens:section=Linear Scan With Early Return -->
-| **Linear Scan With Early Return** |
-|---|
-| [3978. Unique Middle Element](./3978-Unique-Middle-Element/) |
-
----
-
-<!-- leetlens:section=Linear Scan With Two Dynamic Lists -->
-| **Linear Scan With Two Dynamic Lists** |
-|---|
-| [3069. Distribute Elements Into Two Arrays I](./3069-Distribute-Elements-Into-Two-Arrays-I/) |
-
----
-
-<!-- leetlens:section=Modified Prefix Product Calculation -->
-| **Modified Prefix Product Calculation** |
-|---|
-| [2906. Construct Product Matrix](./2906-Construct-Product-Matrix/) |
-
----
-
-<!-- leetlens:section=Prefix And Suffix Product Arrays -->
-| **Prefix And Suffix Product Arrays** |
-|---|
-| [238. Product of Array Except Self](./238-Product-of-Array-Except-Self/) |
-
----
-
 <!-- leetlens:section=Prefix Sum -->
 | **Prefix Sum** |
 |---|
-| [724. Find Pivot Index](./724-Find-Pivot-Index/) |
+| [303. Range Sum Query - Immutable](./303-Range-Sum-Query-Immutable/) |
 | [1732. Find the Highest Altitude](./1732-Find-the-Highest-Altitude/) |
 | [1991. Find the Middle Index in Array](./1991-Find-the-Middle-Index-in-Array/) |
-| [2996. Smallest Missing Integer Greater Than Sequential Prefix Sum](./2996-Smallest-Missing-Integer-Greater-Than-Sequential-Prefix-Sum/) |
-| [3737. Count Subarrays With Majority Element I](./3737-Count-Subarrays-With-Majority-Element-I/) |
-
----
-
-<!-- leetlens:section=Recursive BST Delete Using Inorder Successor/predecessor -->
-| **Recursive BST Delete Using Inorder Successor/predecessor** |
-|---|
-| [450. Delete Node in a BST](./450-Delete-Node-in-a-BST/) |
 
 ---
 
@@ -296,47 +109,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Simple Grid Construction With Obstacles -->
-| **Simple Grid Construction With Obstacles** |
-|---|
-| [3963. Create Grid With Exactly One Path](./3963-Create-Grid-With-Exactly-One-Path/) |
-
----
-
-<!-- leetlens:section=Single Pass To Find Top 3 Maximums And 2 Minimums -->
-| **Single Pass To Find Top 3 Maximums And 2 Minimums** |
-|---|
-| [628. Maximum Product of Three Numbers](./628-Maximum-Product-of-Three-Numbers/) |
-
----
-
 <!-- leetlens:section=Sliding Window -->
 | **Sliding Window** |
 |---|
-| [239. Sliding Window Maximum](./239-Sliding-Window-Maximum/) |
-| [643. Maximum Average Subarray I](./643-Maximum-Average-Subarray-I/) |
-| [933. Number of Recent Calls](./933-Number-of-Recent-Calls/) |
 | [1004. Max Consecutive Ones III](./1004-Max-Consecutive-Ones-III/) |
 | [1358. Number of Substrings Containing All Three Characters](./1358-Number-of-Substrings-Containing-All-Three-Characters/) |
 | [1456. Maximum Number of Vowels in a Substring of Given Length](./1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/) |
 | [1493. Longest Subarray of 1s After Deleting One Element](./1493-Longest-Subarray-of-1s-After-Deleting-One-Element/) |
-| [3090. Maximum Length Substring With Two Occurrences](./3090-Maximum-Length-Substring-With-Two-Occurrences/) |
-| [3318. Find X Sum of All K Long Subarrays I](./3318-Find-X-Sum-of-All-K-Long-Subarrays-I/) |
-
----
-
-<!-- leetlens:section=Sorting -->
-| **Sorting** |
-|---|
-| [451. Sort Characters By Frequency](./451-Sort-Characters-By-Frequency/) |
-| [2500. Delete Greatest Value in Each Row](./2500-Delete-Greatest-Value-in-Each-Row/) |
-
----
-
-<!-- leetlens:section=Stack -->
-| **Stack** |
-|---|
-| [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/) |
 
 ---
 
@@ -346,7 +125,6 @@ Solutions organized by the approach used to solve each problem.
 | [151. Reverse Words in a String](./151-Reverse-Words-in-a-String/) |
 | [1071. Greatest Common Divisor of Strings](./1071-Greatest-Common-Divisor-of-Strings/) |
 | [1668. Maximum Repeating Substring](./1668-Maximum-Repeating-Substring/) |
-| [3612. Process String with Special Operations I](./3612-Process-String-with-Special-Operations-I/) |
 
 ---
 
@@ -358,31 +136,16 @@ Solutions organized by the approach used to solve each problem.
 | [16. 3Sum Closest](./16-3Sum-Closest/) |
 | [18. 4Sum](./18-4Sum/) |
 | [19. Remove Nth Node From End of List](./19-Remove-Nth-Node-From-End-of-List/) |
-| [392. Is Subsequence](./392-Is-Subsequence/) |
-| [977. Squares of a Sorted Array](./977-Squares-of-a-Sorted-Array/) |
 | [1768. Merge Strings Alternately](./1768-Merge-Strings-Alternately/) |
 | [2095. Delete the Middle Node of a Linked List](./2095-Delete-the-Middle-Node-of-a-Linked-List/) |
-| [2130. Maximum Twin Sum of a Linked List](./2130-Maximum-Twin-Sum-of-a-Linked-List/) |
 
 ---
 
 <!-- leetlens:section=Unknown -->
 | **Unknown** |
 |---|
-| [94. Binary Tree Inorder Traversal](./94-Binary-Tree-Inorder-Traversal/) |
 | [124. Binary Tree Maximum Path Sum](./124-Binary-Tree-Maximum-Path-Sum/) |
 | [199. Binary Tree Right Side View](./199-Binary-Tree-Right-Side-View/) |
-| [264. Ugly Number II](./264-Ugly-Number-II/) |
-| [283. Move Zeroes](./283-Move-Zeroes/) |
-| [345. Reverse Vowels of a String](./345-Reverse-Vowels-of-a-String/) |
-| [394. Decode String](./394-Decode-String/) |
-| [443. String Compression](./443-String-Compression/) |
-| [547. Number of Provinces](./547-Number-of-Provinces/) |
-| [605. Can Place Flowers](./605-Can-Place-Flowers/) |
-| [649. Dota2 Senate](./649-Dota2-Senate/) |
-| [735. Asteroid Collision](./735-Asteroid-Collision/) |
-| [841. Keys and Rooms](./841-Keys-and-Rooms/) |
-| [872. Leaf Similar Trees](./872-Leaf-Similar-Trees/) |
 | [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
 | [1137. N th Tribonacci Number](./1137-N-th-Tribonacci-Number/) |
 | [1161. Maximum Level Sum of a Binary Tree](./1161-Maximum-Level-Sum-of-a-Binary-Tree/) |
@@ -395,14 +158,6 @@ Solutions organized by the approach used to solve each problem.
 | [1679. Max Number of K Sum Pairs](./1679-Max-Number-of-K-Sum-Pairs/) |
 | [1926. Nearest Exit from Entrance in Maze](./1926-Nearest-Exit-from-Entrance-in-Maze/) |
 | [1979. Find Greatest Common Divisor of Array](./1979-Find-Greatest-Common-Divisor-of-Array/) |
-| [2215. Find the Difference of Two Arrays](./2215-Find-the-Difference-of-Two-Arrays/) |
-| [2390. Removing Stars From a String](./2390-Removing-Stars-From-a-String/) |
-| [2558. Take Gifts From the Richest Pile](./2558-Take-Gifts-From-the-Richest-Pile/) |
-| [3471. Find the Largest Almost Missing Integer](./3471-Find-the-Largest-Almost-Missing-Integer/) |
-| [3514. Number of Unique XOR Triplets II](./3514-Number-of-Unique-XOR-Triplets-II/) |
-| [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
-| [3867. Sum of GCD of Formed Pairs](./3867-Sum-of-GCD-of-Formed-Pairs/) |
-| [3975. Filter Occupied Intervals](./3975-Filter-Occupied-Intervals/) |
 
 ---
 
