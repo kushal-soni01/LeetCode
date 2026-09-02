@@ -46,13 +46,6 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Breadth-First Search Over State (position, Remaining Energy, Collected Litter Mask) -->
-| **Breadth-First Search Over State (position, Remaining Energy, Collected Litter Mask)** |
-|---|
-| [3568. Minimum Moves to Clean the Classroom](./3568-Minimum-Moves-to-Clean-the-Classroom/) |
-
----
-
 <!-- leetlens:section=Brute Force -->
 | **Brute Force** |
 |---|
@@ -61,6 +54,13 @@ Solutions organized by the approach used to solve each problem.
 | [2373. Largest Local Values in a Matrix](./2373-Largest-Local-Values-in-a-Matrix/) |
 | [4010. Maximize Pair Strength Using GCD](./4010-Maximize-Pair-Strength-Using-GCD/) |
 | [4011. Count Subarrays With Even Odd Ratio I](./4011-Count-Subarrays-With-Even-Odd-Ratio-I/) |
+
+---
+
+<!-- leetlens:section=Constant-time Parity Observation -->
+| **Constant-time Parity Observation** |
+|---|
+| [3875. Construct Uniform Parity Array I](./3875-Construct-Uniform-Parity-Array-I/) |
 
 ---
 
@@ -409,6 +409,7 @@ Solutions organized by the approach used to solve each problem.
 | [2558. Take Gifts From the Richest Pile](./2558-Take-Gifts-From-the-Richest-Pile/) |
 | [3471. Find the Largest Almost Missing Integer](./3471-Find-the-Largest-Almost-Missing-Integer/) |
 | [3514. Number of Unique XOR Triplets II](./3514-Number-of-Unique-XOR-Triplets-II/) |
+| [3568. Minimum Moves to Clean the Classroom](./3568-Minimum-Moves-to-Clean-the-Classroom/) |
 | [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
 | [3867. Sum of GCD of Formed Pairs](./3867-Sum-of-GCD-of-Formed-Pairs/) |
 | [3975. Filter Occupied Intervals](./3975-Filter-Occupied-Intervals/) |
