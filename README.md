@@ -57,13 +57,6 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Constant-time Parity Observation -->
-| **Constant-time Parity Observation** |
-|---|
-| [3875. Construct Uniform Parity Array I](./3875-Construct-Uniform-Parity-Array-I/) |
-
----
-
 <!-- leetlens:section=Counting Frequency And Constructing Palindrome -->
 | **Counting Frequency And Constructing Palindrome** |
 |---|
@@ -311,6 +304,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Single Pass Scan For Minimum Odd And Even Values -->
+| **Single Pass Scan For Minimum Odd And Even Values** |
+|---|
+| [3876. Construct Uniform Parity Array II](./3876-Construct-Uniform-Parity-Array-II/) |
+
+---
+
 <!-- leetlens:section=Single Pass To Find Top 3 Maximums And 2 Minimums -->
 | **Single Pass To Find Top 3 Maximums And 2 Minimums** |
 |---|
@@ -412,6 +412,7 @@ Solutions organized by the approach used to solve each problem.
 | [3568. Minimum Moves to Clean the Classroom](./3568-Minimum-Moves-to-Clean-the-Classroom/) |
 | [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
 | [3867. Sum of GCD of Formed Pairs](./3867-Sum-of-GCD-of-Formed-Pairs/) |
+| [3875. Construct Uniform Parity Array I](./3875-Construct-Uniform-Parity-Array-I/) |
 | [3975. Filter Occupied Intervals](./3975-Filter-Occupied-Intervals/) |
 
 ---
