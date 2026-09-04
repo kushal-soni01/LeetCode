@@ -2,7 +2,7 @@
 <!-- leetlens:approach=Two-pass prefix max and suffix min -->
 <!-- leetlens:difficulty=Easy -->
 <!-- leetlens:language=java -->
-<!-- leetlens:pushedAt=1788503164687 -->
+<!-- leetlens:pushedAt=1788503174040 -->
 
 # [3903. Smallest Stable Index I](https://leetcode.com/problems/Smallest-Stable-Index-I/)
 
