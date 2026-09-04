@@ -271,6 +271,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Prefix Max & Suffix Min Precomputation -->
+| **Prefix Max & Suffix Min Precomputation** |
+|---|
+| [3904. Smallest Stable Index II](./3904-Smallest-Stable-Index-II/) |
+
+---
+
 <!-- leetlens:section=Prefix Sum -->
 | **Prefix Sum** |
 |---|
