@@ -337,6 +337,7 @@ Solutions organized by the approach used to solve each problem.
 | [1493. Longest Subarray of 1s After Deleting One Element](./1493-Longest-Subarray-of-1s-After-Deleting-One-Element/) |
 | [3090. Maximum Length Substring With Two Occurrences](./3090-Maximum-Length-Substring-With-Two-Occurrences/) |
 | [3318. Find X Sum of All K Long Subarrays I](./3318-Find-X-Sum-of-All-K-Long-Subarrays-I/) |
+| [4044. Count Good Cyclic Rotations](./4044-Count-Good-Cyclic-Rotations/) |
 
 ---
 
@@ -420,6 +421,7 @@ Solutions organized by the approach used to solve each problem.
 | [3699. Number of ZigZag Arrays I](./3699-Number-of-ZigZag-Arrays-I/) |
 | [3867. Sum of GCD of Formed Pairs](./3867-Sum-of-GCD-of-Formed-Pairs/) |
 | [3875. Construct Uniform Parity Array I](./3875-Construct-Uniform-Parity-Array-I/) |
+| [3903. Smallest Stable Index I](./3903-Smallest-Stable-Index-I/) |
 | [3975. Filter Occupied Intervals](./3975-Filter-Occupied-Intervals/) |
 
 ---
