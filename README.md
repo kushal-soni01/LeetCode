@@ -105,6 +105,7 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [62. Unique Paths](./62-Unique-Paths/) |
 | [72. Edit Distance](./72-Edit-Distance/) |
+| [115. Distinct Subsequences](./115-Distinct-Subsequences/) |
 | [120. Triangle](./120-Triangle/) |
 | [486. Predict the Winner](./486-Predict-the-Winner/) |
 | [509. Fibonacci Number](./509-Fibonacci-Number/) |
