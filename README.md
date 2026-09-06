@@ -71,6 +71,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Counting Total Equal Adjacent Pairs With A Heuristic Formula -->
+| **Counting Total Equal Adjacent Pairs With A Heuristic Formula** |
+|---|
+| [4043. Count Rotations With Exactly K Equal Adjacent Pairs](./4043-Count-Rotations-With-Exactly-K-Equal-Adjacent-Pairs/) |
+
+---
+
 <!-- leetlens:section=Direct Calculation -->
 | **Direct Calculation** |
 |---|
