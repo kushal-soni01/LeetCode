@@ -112,6 +112,7 @@ Solutions organized by the approach used to solve each problem.
 | [516. Longest Palindromic Subsequence](./516-Longest-Palindromic-Subsequence/) |
 | [746. Min Cost Climbing Stairs](./746-Min-Cost-Climbing-Stairs/) |
 | [877. Stone Game](./877-Stone-Game/) |
+| [940. Distinct Subsequences II](./940-Distinct-Subsequences-II/) |
 | [1092. Shortest Common Supersequence](./1092-Shortest-Common-Supersequence/) |
 | [3987. Minimum Total Cost to Process All Elements](./3987-Minimum-Total-Cost-to-Process-All-Elements/) |
 
