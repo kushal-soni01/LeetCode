@@ -78,6 +78,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Direct Arithmetic Formula -->
+| **Direct Arithmetic Formula** |
+|---|
+| [3870. Count Commas in Range](./3870-Count-Commas-in-Range/) |
+
+---
+
 <!-- leetlens:section=Direct Calculation -->
 | **Direct Calculation** |
 |---|
