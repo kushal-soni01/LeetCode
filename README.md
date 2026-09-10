@@ -280,6 +280,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Post-order Depth-first Traversal (recursive) -->
+| **Post-order Depth-first Traversal (recursive)** |
+|---|
+| [2265. Count Nodes Equal to Average of Subtree](./2265-Count-Nodes-Equal-to-Average-of-Subtree/) |
+
+---
+
 <!-- leetlens:section=Prefix And Suffix Product Arrays -->
 | **Prefix And Suffix Product Arrays** |
 |---|
