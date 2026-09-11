@@ -280,13 +280,6 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Post-order Depth-first Traversal (recursive) -->
-| **Post-order Depth-first Traversal (recursive)** |
-|---|
-| [2265. Count Nodes Equal to Average of Subtree](./2265-Count-Nodes-Equal-to-Average-of-Subtree/) |
-
----
-
 <!-- leetlens:section=Prefix And Suffix Product Arrays -->
 | **Prefix And Suffix Product Arrays** |
 |---|
@@ -389,6 +382,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Triple Nested Loops Enumeration With Hash Set Deduplication -->
+| **Triple Nested Loops Enumeration With Hash Set Deduplication** |
+|---|
+| [3483. Unique 3-Digit Even Numbers](./3483-Unique-3-Digit-Even-Numbers/) |
+
+---
+
 <!-- leetlens:section=Two Pointer -->
 | **Two Pointer** |
 |---|
@@ -436,6 +436,7 @@ Solutions organized by the approach used to solve each problem.
 | [1926. Nearest Exit from Entrance in Maze](./1926-Nearest-Exit-from-Entrance-in-Maze/) |
 | [1979. Find Greatest Common Divisor of Array](./1979-Find-Greatest-Common-Divisor-of-Array/) |
 | [2215. Find the Difference of Two Arrays](./2215-Find-the-Difference-of-Two-Arrays/) |
+| [2265. Count Nodes Equal to Average of Subtree](./2265-Count-Nodes-Equal-to-Average-of-Subtree/) |
 | [2390. Removing Stars From a String](./2390-Removing-Stars-From-a-String/) |
 | [2558. Take Gifts From the Richest Pile](./2558-Take-Gifts-From-the-Richest-Pile/) |
 | [3471. Find the Largest Almost Missing Integer](./3471-Find-the-Largest-Almost-Missing-Integer/) |
