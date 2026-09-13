@@ -57,6 +57,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Brute-force Translation Enumeration -->
+| **Brute-force Translation Enumeration** |
+|---|
+| [835. Image Overlap](./835-Image-Overlap/) |
+
+---
+
 <!-- leetlens:section=Counting Frequency And Constructing Palindrome -->
 | **Counting Frequency And Constructing Palindrome** |
 |---|
@@ -385,7 +392,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Triple Nested Loops Enumeration With Hash Set Deduplication -->
 | **Triple Nested Loops Enumeration With Hash Set Deduplication** |
 |---|
-| [3483. Unique 3-Digit Even Numbers](./3483-Unique-3-Digit-Even-Numbers/) |
+| [3483. Unique 3 Digit Even Numbers](./3483-Unique-3-Digit-Even-Numbers/) |
 
 ---
 
