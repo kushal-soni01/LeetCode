@@ -93,6 +93,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Direct Coordinate Comparison (separating Axis Check) -->
+| **Direct Coordinate Comparison (separating Axis Check)** |
+|---|
+| [836. Rectangle Overlap](./836-Rectangle-Overlap/) |
+
+---
+
 <!-- leetlens:section=Direct Formula Computation With Euclidean GCD -->
 | **Direct Formula Computation With Euclidean GCD** |
 |---|
