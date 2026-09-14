@@ -18,6 +18,7 @@ Solutions organized by the approach used to solve each problem.
 |---|
 | [162. Find Peak Element](./162-Find-Peak-Element/) |
 | [374. Guess Number Higher or Lower](./374-Guess-Number-Higher-or-Lower/) |
+| [540. Single Element in a Sorted Array](./540-Single-Element-in-a-Sorted-Array/) |
 | [700. Search in a Binary Search Tree](./700-Search-in-a-Binary-Search-Tree/) |
 | [875. Koko Eating Bananas](./875-Koko-Eating-Bananas/) |
 | [2300. Successful Pairs of Spells and Potions](./2300-Successful-Pairs-of-Spells-and-Potions/) |
@@ -54,13 +55,6 @@ Solutions organized by the approach used to solve each problem.
 | [2373. Largest Local Values in a Matrix](./2373-Largest-Local-Values-in-a-Matrix/) |
 | [4010. Maximize Pair Strength Using GCD](./4010-Maximize-Pair-Strength-Using-GCD/) |
 | [4011. Count Subarrays With Even Odd Ratio I](./4011-Count-Subarrays-With-Even-Odd-Ratio-I/) |
-
----
-
-<!-- leetlens:section=Brute-force Translation Enumeration -->
-| **Brute-force Translation Enumeration** |
-|---|
-| [835. Image Overlap](./835-Image-Overlap/) |
 
 ---
 
@@ -427,6 +421,7 @@ Solutions organized by the approach used to solve each problem.
 | [605. Can Place Flowers](./605-Can-Place-Flowers/) |
 | [649. Dota2 Senate](./649-Dota2-Senate/) |
 | [735. Asteroid Collision](./735-Asteroid-Collision/) |
+| [835. Image Overlap](./835-Image-Overlap/) |
 | [841. Keys and Rooms](./841-Keys-and-Rooms/) |
 | [872. Leaf Similar Trees](./872-Leaf-Similar-Trees/) |
 | [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
