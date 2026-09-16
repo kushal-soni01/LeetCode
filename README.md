@@ -129,6 +129,7 @@ Solutions organized by the approach used to solve each problem.
 | [877. Stone Game](./877-Stone-Game/) |
 | [940. Distinct Subsequences II](./940-Distinct-Subsequences-II/) |
 | [1092. Shortest Common Supersequence](./1092-Shortest-Common-Supersequence/) |
+| [1621. Number of Sets of K Non-Overlapping Line Segments](./1621-Number-of-Sets-of-K-Non-Overlapping-Line-Segments/) |
 | [3987. Minimum Total Cost to Process All Elements](./3987-Minimum-Total-Cost-to-Process-All-Elements/) |
 
 ---
