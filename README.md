@@ -17,6 +17,7 @@ Solutions organized by the approach used to solve each problem.
 | **Binary Search** |
 |---|
 | [33. Search in Rotated Sorted Array](./33-Search-in-Rotated-Sorted-Array/) |
+| [153. Find Minimum in Rotated Sorted Array](./153-Find-Minimum-in-Rotated-Sorted-Array/) |
 | [162. Find Peak Element](./162-Find-Peak-Element/) |
 | [374. Guess Number Higher or Lower](./374-Guess-Number-Higher-or-Lower/) |
 | [540. Single Element in a Sorted Array](./540-Single-Element-in-a-Sorted-Array/) |
