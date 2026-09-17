@@ -16,6 +16,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Binary Search -->
 | **Binary Search** |
 |---|
+| [33. Search in Rotated Sorted Array](./33-Search-in-Rotated-Sorted-Array/) |
 | [162. Find Peak Element](./162-Find-Peak-Element/) |
 | [374. Guess Number Higher or Lower](./374-Guess-Number-Higher-or-Lower/) |
 | [540. Single Element in a Sorted Array](./540-Single-Element-in-a-Sorted-Array/) |
@@ -129,7 +130,7 @@ Solutions organized by the approach used to solve each problem.
 | [877. Stone Game](./877-Stone-Game/) |
 | [940. Distinct Subsequences II](./940-Distinct-Subsequences-II/) |
 | [1092. Shortest Common Supersequence](./1092-Shortest-Common-Supersequence/) |
-| [1621. Number of Sets of K Non-Overlapping Line Segments](./1621-Number-of-Sets-of-K-Non-Overlapping-Line-Segments/) |
+| [1621. Number of Sets of K Non Overlapping Line Segments](./1621-Number-of-Sets-of-K-Non-Overlapping-Line-Segments/) |
 | [3987. Minimum Total Cost to Process All Elements](./3987-Minimum-Total-Cost-to-Process-All-Elements/) |
 
 ---
