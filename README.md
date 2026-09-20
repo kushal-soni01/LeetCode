@@ -264,6 +264,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Linear Scan -->
+| **Linear Scan** |
+|---|
+| [3498. Reverse Degree of a String](./3498-Reverse-Degree-of-a-String/) |
+
+---
+
 <!-- leetlens:section=Linear Scan To Locate Min And Max Indices And Compute Minimal Deletions -->
 | **Linear Scan To Locate Min And Max Indices And Compute Minimal Deletions** |
 |---|
