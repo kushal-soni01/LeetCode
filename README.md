@@ -339,6 +339,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Recursive Parsing With Hash Sets -->
+| **Recursive Parsing With Hash Sets** |
+|---|
+| [1096. Brace Expansion II](./1096-Brace-Expansion-II/) |
+
+---
+
 <!-- leetlens:section=Sequential Digit Generation -->
 | **Sequential Digit Generation** |
 |---|
