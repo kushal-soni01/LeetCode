@@ -402,6 +402,7 @@ Solutions organized by the approach used to solve each problem.
 | **Stack** |
 |---|
 | [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/) |
+| [1190. Reverse Substrings Between Each Pair of Parentheses](./1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/) |
 
 ---
 
