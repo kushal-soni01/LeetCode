@@ -264,6 +264,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Iterative Scanning With Inner Loop To Match Closing Parentheses -->
+| **Iterative Scanning With Inner Loop To Match Closing Parentheses** |
+|---|
+| [1614. Maximum Nesting Depth of the Parentheses](./1614-Maximum-Nesting-Depth-of-the-Parentheses/) |
+
+---
+
 <!-- leetlens:section=Linear Scan -->
 | **Linear Scan** |
 |---|
