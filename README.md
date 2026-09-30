@@ -157,6 +157,7 @@ Solutions organized by the approach used to solve each problem.
 | [316. Remove Duplicate Letters](./316-Remove-Duplicate-Letters/) |
 | [334. Increasing Triplet Subsequence](./334-Increasing-Triplet-Subsequence/) |
 | [1081. Smallest Subsequence of Distinct Characters](./1081-Smallest-Subsequence-of-Distinct-Characters/) |
+| [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/) |
 | [1328. Break a Palindrome](./1328-Break-a-Palindrome/) |
 | [1488. Avoid Flood in The City](./1488-Avoid-Flood-in-The-City/) |
 | [1520. Maximum Number of Non Overlapping Substrings](./1520-Maximum-Number-of-Non-Overlapping-Substrings/) |
