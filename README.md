@@ -382,6 +382,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Single-pass Counting With Digit Frequency Arrays -->
+| **Single-pass Counting With Digit Frequency Arrays** |
+|---|
+| [299. Bulls and Cows](./299-Bulls-and-Cows/) |
+
+---
+
 <!-- leetlens:section=Sliding Window -->
 | **Sliding Window** |
 |---|
