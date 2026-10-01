@@ -382,13 +382,6 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Single-pass Counting With Digit Frequency Arrays -->
-| **Single-pass Counting With Digit Frequency Arrays** |
-|---|
-| [299. Bulls and Cows](./299-Bulls-and-Cows/) |
-
----
-
 <!-- leetlens:section=Sliding Window -->
 | **Sliding Window** |
 |---|
@@ -416,6 +409,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Stack -->
 | **Stack** |
 |---|
+| [20. Valid Parentheses](./20-Valid-Parentheses/) |
 | [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/) |
 | [1190. Reverse Substrings Between Each Pair of Parentheses](./1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/) |
 
@@ -462,6 +456,7 @@ Solutions organized by the approach used to solve each problem.
 | [199. Binary Tree Right Side View](./199-Binary-Tree-Right-Side-View/) |
 | [264. Ugly Number II](./264-Ugly-Number-II/) |
 | [283. Move Zeroes](./283-Move-Zeroes/) |
+| [299. Bulls and Cows](./299-Bulls-and-Cows/) |
 | [345. Reverse Vowels of a String](./345-Reverse-Vowels-of-a-String/) |
 | [394. Decode String](./394-Decode-String/) |
 | [443. String Compression](./443-String-Compression/) |
