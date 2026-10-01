@@ -385,6 +385,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Sliding Window -->
 | **Sliding Window** |
 |---|
+| [3. Longest Substring Without Repeating Characters](./3-Longest-Substring-Without-Repeating-Characters/) |
 | [239. Sliding Window Maximum](./239-Sliding-Window-Maximum/) |
 | [643. Maximum Average Subarray I](./643-Maximum-Average-Subarray-I/) |
 | [933. Number of Recent Calls](./933-Number-of-Recent-Calls/) |
