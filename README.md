@@ -88,6 +88,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Depth-First Search -->
+| **Depth-First Search** |
+|---|
+| [22. Generate Parentheses](./22-Generate-Parentheses/) |
+
+---
+
 <!-- leetlens:section=Direct Arithmetic Formula -->
 | **Direct Arithmetic Formula** |
 |---|
@@ -410,7 +417,6 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Stack -->
 | **Stack** |
 |---|
-| [20. Valid Parentheses](./20-Valid-Parentheses/) |
 | [84. Largest Rectangle in Histogram](./84-Largest-Rectangle-in-Histogram/) |
 | [1190. Reverse Substrings Between Each Pair of Parentheses](./1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/) |
 
@@ -452,6 +458,7 @@ Solutions organized by the approach used to solve each problem.
 <!-- leetlens:section=Unknown -->
 | **Unknown** |
 |---|
+| [20. Valid Parentheses](./20-Valid-Parentheses/) |
 | [94. Binary Tree Inorder Traversal](./94-Binary-Tree-Inorder-Traversal/) |
 | [124. Binary Tree Maximum Path Sum](./124-Binary-Tree-Maximum-Path-Sum/) |
 | [199. Binary Tree Right Side View](./199-Binary-Tree-Right-Side-View/) |
