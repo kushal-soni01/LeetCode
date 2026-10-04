@@ -163,6 +163,7 @@ Solutions organized by the approach used to solve each problem.
 | [122. Best Time to Buy and Sell Stock II](./122-Best-Time-to-Buy-and-Sell-Stock-II/) |
 | [316. Remove Duplicate Letters](./316-Remove-Duplicate-Letters/) |
 | [334. Increasing Triplet Subsequence](./334-Increasing-Triplet-Subsequence/) |
+| [678. Valid Parenthesis String](./678-Valid-Parenthesis-String/) |
 | [1081. Smallest Subsequence of Distinct Characters](./1081-Smallest-Subsequence-of-Distinct-Characters/) |
 | [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/) |
 | [1328. Break a Palindrome](./1328-Break-a-Palindrome/) |
