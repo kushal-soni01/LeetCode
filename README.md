@@ -355,6 +355,13 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
+<!-- leetlens:section=Recursive Divide-and-conquer Parsing -->
+| **Recursive Divide-and-conquer Parsing** |
+|---|
+| [856. Score of Parentheses](./856-Score-of-Parentheses/) |
+
+---
+
 <!-- leetlens:section=Recursive Parsing With Hash Sets -->
 | **Recursive Parsing With Hash Sets** |
 |---|
