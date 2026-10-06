@@ -164,6 +164,7 @@ Solutions organized by the approach used to solve each problem.
 | [316. Remove Duplicate Letters](./316-Remove-Duplicate-Letters/) |
 | [334. Increasing Triplet Subsequence](./334-Increasing-Triplet-Subsequence/) |
 | [678. Valid Parenthesis String](./678-Valid-Parenthesis-String/) |
+| [921. Minimum Add to Make Parentheses Valid](./921-Minimum-Add-to-Make-Parentheses-Valid/) |
 | [1081. Smallest Subsequence of Distinct Characters](./1081-Smallest-Subsequence-of-Distinct-Characters/) |
 | [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/) |
 | [1328. Break a Palindrome](./1328-Break-a-Palindrome/) |
@@ -355,13 +356,6 @@ Solutions organized by the approach used to solve each problem.
 
 ---
 
-<!-- leetlens:section=Recursive Divide-and-conquer Parsing -->
-| **Recursive Divide-and-conquer Parsing** |
-|---|
-| [856. Score of Parentheses](./856-Score-of-Parentheses/) |
-
----
-
 <!-- leetlens:section=Recursive Parsing With Hash Sets -->
 | **Recursive Parsing With Hash Sets** |
 |---|
@@ -482,6 +476,7 @@ Solutions organized by the approach used to solve each problem.
 | [735. Asteroid Collision](./735-Asteroid-Collision/) |
 | [835. Image Overlap](./835-Image-Overlap/) |
 | [841. Keys and Rooms](./841-Keys-and-Rooms/) |
+| [856. Score of Parentheses](./856-Score-of-Parentheses/) |
 | [872. Leaf Similar Trees](./872-Leaf-Similar-Trees/) |
 | [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
 | [1137. N th Tribonacci Number](./1137-N-th-Tribonacci-Number/) |
