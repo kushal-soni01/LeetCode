@@ -164,12 +164,12 @@ Solutions organized by the approach used to solve each problem.
 | [316. Remove Duplicate Letters](./316-Remove-Duplicate-Letters/) |
 | [334. Increasing Triplet Subsequence](./334-Increasing-Triplet-Subsequence/) |
 | [678. Valid Parenthesis String](./678-Valid-Parenthesis-String/) |
-| [921. Minimum Add to Make Parentheses Valid](./921-Minimum-Add-to-Make-Parentheses-Valid/) |
 | [1081. Smallest Subsequence of Distinct Characters](./1081-Smallest-Subsequence-of-Distinct-Characters/) |
 | [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-Maximum-Nesting-Depth-of-Two-Valid-Parentheses-Strings/) |
 | [1328. Break a Palindrome](./1328-Break-a-Palindrome/) |
 | [1488. Avoid Flood in The City](./1488-Avoid-Flood-in-The-City/) |
 | [1520. Maximum Number of Non Overlapping Substrings](./1520-Maximum-Number-of-Non-Overlapping-Substrings/) |
+| [1541. Minimum Insertions to Balance a Parentheses String](./1541-Minimum-Insertions-to-Balance-a-Parentheses-String/) |
 | [2144. Minimum Cost of Buying Candies With Discount](./2144-Minimum-Cost-of-Buying-Candies-With-Discount/) |
 | [2335. Minimum Amount of Time to Fill Cups](./2335-Minimum-Amount-of-Time-to-Fill-Cups/) |
 | [3014. Minimum Number of Pushes to Type Word I](./3014-Minimum-Number-of-Pushes-to-Type-Word-I/) |
@@ -478,6 +478,7 @@ Solutions organized by the approach used to solve each problem.
 | [841. Keys and Rooms](./841-Keys-and-Rooms/) |
 | [856. Score of Parentheses](./856-Score-of-Parentheses/) |
 | [872. Leaf Similar Trees](./872-Leaf-Similar-Trees/) |
+| [921. Minimum Add to Make Parentheses Valid](./921-Minimum-Add-to-Make-Parentheses-Valid/) |
 | [1046. Last Stone Weight](./1046-Last-Stone-Weight/) |
 | [1137. N th Tribonacci Number](./1137-N-th-Tribonacci-Number/) |
 | [1161. Maximum Level Sum of a Binary Tree](./1161-Maximum-Level-Sum-of-a-Binary-Tree/) |
